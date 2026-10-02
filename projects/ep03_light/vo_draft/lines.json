@@ -1,0 +1,200 @@
+[
+ {
+  "section": "0. Cold open (0:00–0:50)",
+  "text": "The speed of light is 299,792,458 metres per second. Not approximately. Exactly.",
+  "file": "vo_000.mp3",
+  "dur": 11.784
+ },
+ {
+  "section": "0. Cold open (0:00–0:50)",
+  "text": "There is no uncertainty on that number, no error bar, no last digit still being argued over. And that is strange, because every measurement ever made has an error bar.",
+  "file": "vo_001.mp3",
+  "dur": 12.168
+ },
+ {
+  "section": "0. Cold open (0:00–0:50)",
+  "text": "The reason is that we stopped measuring it. Today the speed of light is a decision — and everything else bends around it.",
+  "file": "vo_002.mp3",
+  "dur": 8.4
+ },
+ {
+  "section": "0. Cold open (0:00–0:50)",
+  "text": "Getting there took three hundred years, a moon of Jupiter, a spinning wheel with 720 teeth, a mountain in California, and a laser that finally made the question meaningless.",
+  "file": "vo_003.mp3",
+  "dur": 11.424
+ },
+ {
+  "section": "0. Cold open (0:00–0:50)",
+  "text": "This is how we learned how fast light is.",
+  "file": "vo_004.mp3",
+  "dur": 3.432
+ },
+ {
+  "section": "I. The moon that ran late (0:50–3:00)",
+  "text": "For most of history, the honest answer was that light had no speed at all. Galileo tried to measure it with two lanterns on two hills, and found only that light was faster than two men with shutters.",
+  "file": "vo_005.mp3",
+  "dur": 13.416
+ },
+ {
+  "section": "I. The moon that ran late (0:50–3:00)",
+  "text": "The first real answer came from the wrong problem. In the 1670s, astronomers in Paris were building tables for the moons of Jupiter — because a moon that eclipses on schedule is a clock that everyone on Earth can see, and a clock like that solves navigation.",
+  "file": "vo_006.mp3",
+  "dur": 16.944
+ },
+ {
+  "section": "I. The moon that ran late (0:50–3:00)",
+  "text": "Io, the innermost large moon, goes behind Jupiter every forty-two and a half hours. Predictable. Except it wasn't. The eclipses ran early when Earth was closest to Jupiter, and late when Earth was farthest away.",
+  "file": "vo_007.mp3",
+  "dur": 16.824
+ },
+ {
+  "section": "I. The moon that ran late (0:50–3:00)",
+  "text": "In 1676, the Danish astronomer Ole Rømer said the obvious thing that nobody wanted to say: the eclipses are on time. The light is late.",
+  "file": "vo_008.mp3",
+  "dur": 11.28
+ },
+ {
+  "section": "I. The moon that ran late (0:50–3:00)",
+  "text": "When Earth is on the far side of its orbit, the light from Io has to cross the extra width of that orbit to reach us. Rømer estimated that crossing took about twenty-two minutes.",
+  "file": "vo_009.mp3",
+  "dur": 11.928
+ },
+ {
+  "section": "I. The moon that ran late (0:50–3:00)",
+  "text": "With the orbit sizes we know today, twenty-two minutes gives a speed of light of about 227,000 kilometres per second. That is about twenty-five per cent too low.",
+  "file": "vo_010.mp3",
+  "dur": 12.192
+ },
+ {
+  "section": "I. The moon that ran late (0:50–3:00)",
+  "text": "And it did not matter. Rømer's number was wrong; Rømer's point was right. Light takes time. After 1676, the speed of light was a quantity — something with a value that could be measured better.",
+  "file": "vo_011.mp3",
+  "dur": 15.744
+ },
+ {
+  "section": "II. A wheel with 720 teeth (3:00–5:00)",
+  "text": "The next step took another 170 years, and it happened on the ground.",
+  "file": "vo_012.mp3",
+  "dur": 5.52
+ },
+ {
+  "section": "II. A wheel with 720 teeth (3:00–5:00)",
+  "text": "In 1849, Hippolyte Fizeau sent a beam of light from a house in Suresnes to a mirror on Montmartre — a round trip of about seventeen kilometres — and put a spinning toothed wheel in its path.",
+  "file": "vo_013.mp3",
+  "dur": 13.032
+ },
+ {
+  "section": "II. A wheel with 720 teeth (3:00–5:00)",
+  "text": "Light goes out through a gap between two teeth, travels to the mirror, and comes back. If the wheel has turned by exactly one tooth while the light was away, the returning beam hits metal, and the observer sees nothing.",
+  "file": "vo_014.mp3",
+  "dur": 14.4
+ },
+ {
+  "section": "II. A wheel with 720 teeth (3:00–5:00)",
+  "text": "Fizeau turned the wheel faster and faster until the light went out. Seven hundred and twenty teeth, twenty-five turns per second, seventeen kilometres of travel — and the speed of light fell out of the arithmetic: 313,000 kilometres per second.",
+  "file": "vo_015.mp3",
+  "dur": 17.136
+ },
+ {
+  "section": "II. A wheel with 720 teeth (3:00–5:00)",
+  "text": "About four and a half per cent too high, measured with a wheel, a lamp and a mirror on a hill.",
+  "file": "vo_016.mp3",
+  "dur": 6.84
+ },
+ {
+  "section": "II. A wheel with 720 teeth (3:00–5:00)",
+  "text": "Thirteen years later, Léon Foucault replaced the wheel with a rotating mirror, which let him do the whole experiment on a bench instead of across a city — with a light path of only about twenty metres. In 1862 he got 298,000 kilometres per second, within about six tenths of a per cent of the modern value.",
+  "file": "vo_017.mp3",
+  "dur": 21.216
+ },
+ {
+  "section": "II. A wheel with 720 teeth (3:00–5:00)",
+  "text": "For the first time, the number was right to within a per cent. The argument moved to the next digit.",
+  "file": "vo_018.mp3",
+  "dur": 7.416
+ },
+ {
+  "section": "III. Two mountains (5:00–6:30)",
+  "text": "In 1926, Albert Michelson ran the experiment across the sky of southern California — from Mount Wilson to Mount San Antonio, a distance of about thirty-five kilometres, surveyed to within a few centimetres.",
+  "file": "vo_019.mp3",
+  "dur": 14.544
+ },
+ {
+  "section": "III. Two mountains (5:00–6:30)",
+  "text": "At one end, an eight-sided mirror spun at five hundred and twenty-eight turns a second. Light left one face, crossed the valley, came back, and struck the next face — but only if the mirror had turned exactly one eighth of a revolution while the light was in the air.",
+  "file": "vo_020.mp3",
+  "dur": 17.328
+ },
+ {
+  "section": "III. Two mountains (5:00–6:30)",
+  "text": "His answer: 299,796 kilometres per second, give or take one.",
+  "file": "vo_021.mp3",
+  "dur": 7.752
+ },
+ {
+  "section": "III. Two mountains (5:00–6:30)",
+  "text": "By now the limit was no longer the cleverness of the experiment. It was the ruler. To state a speed you need a distance, and the metre itself was a scratch on a bar of metal in a vault in Paris.",
+  "file": "vo_022.mp3",
+  "dur": 13.776
+ },
+ {
+  "section": "IV. The laser that ended the question (6:30–8:00)",
+  "text": "Speed is distance over time. By the 1960s, time had become extraordinarily good: atomic clocks could count the seconds to eleven digits. Distance could not keep up.",
+  "file": "vo_023.mp3",
+  "dur": 13.68
+ },
+ {
+  "section": "IV. The laser that ended the question (6:30–8:00)",
+  "text": "Then came the laser. A stabilised laser has a frequency you can count and a wavelength you can measure. Multiply them together and you get a speed — directly, in one measurement.",
+  "file": "vo_024.mp3",
+  "dur": 13.392
+ },
+ {
+  "section": "IV. The laser that ended the question (6:30–8:00)",
+  "text": "In 1972, at the National Bureau of Standards in Boulder, a team led by Kenneth Evenson did exactly that with a methane-stabilised laser. Their result: 299,792,456.2 metres per second, with an uncertainty of 1.1 metres per second — a hundred times better than anything before it.",
+  "file": "vo_025.mp3",
+  "dur": 23.832
+ },
+ {
+  "section": "IV. The laser that ended the question (6:30–8:00)",
+  "text": "And that created a problem. The measurement was now more precise than the definition of the metre it was measured against. The uncertainty in the speed of light was, almost entirely, the uncertainty in the ruler.",
+  "file": "vo_026.mp3",
+  "dur": 14.616
+ },
+ {
+  "section": "V. The decision (8:00–9:00)",
+  "text": "In 1983, the General Conference on Weights and Measures took the obvious way out. It stopped measuring the speed of light and defined it: exactly 299,792,458 metres per second.",
+  "file": "vo_027.mp3",
+  "dur": 16.368
+ },
+ {
+  "section": "V. The decision (8:00–9:00)",
+  "text": "Then it redefined the metre in terms of that number. A metre is the distance light travels in one 299-million-792-thousand-458th of a second.",
+  "file": "vo_028.mp3",
+  "dur": 13.632
+ },
+ {
+  "section": "V. The decision (8:00–9:00)",
+  "text": "The trade was deliberate. We gave up the ability to measure the speed of light, and in exchange we got a ruler that is the same everywhere in the universe, forever.",
+  "file": "vo_029.mp3",
+  "dur": 10.896
+ },
+ {
+  "section": "V. The decision (8:00–9:00)",
+  "text": "It is the same move that would be made for the kilogram thirty-six years later: replace an object with a constant, and let the object become just an object.",
+  "file": "vo_030.mp3",
+  "dur": 9.792
+ },
+ {
+  "section": "V. The decision (8:00–9:00)",
+  "text": "So when someone asks how we know the speed of light, the honest answer has two parts. We measured it for three hundred years, from a late moon to a spinning wheel to a laser. And then we stopped, because we had learned enough to make it a definition.",
+  "file": "vo_031.mp3",
+  "dur": 16.464
+ },
+ {
+  "section": "V. The decision (8:00–9:00)",
+  "text": "The last digit stopped moving in 1983.",
+  "file": "vo_032.mp3",
+  "dur": 4.008
+ }
+]

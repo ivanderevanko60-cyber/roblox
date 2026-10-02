@@ -1,0 +1,516 @@
+1
+00:00:00,800 --> 00:00:05,243
+The most important lump of metal in the
+world has been losing weight.
+
+2
+00:00:05,293 --> 00:00:07,782
+Or everything else has been gaining it.
+
+3
+00:00:07,832 --> 00:00:11,428
+For a hundred and thirty years,
+nobody could tell which.
+
+4
+00:00:11,933 --> 00:00:18,068
+Because that lump of metal was the kilogram.
+Not a copy of it — the unit itself.
+
+5
+00:00:18,118 --> 00:00:23,867
+By definition it weighed exactly one
+kilogram, and it could never be wrong.
+
+6
+00:00:24,367 --> 00:00:27,011
+And at some point in the
+twentieth century,
+
+7
+00:00:27,061 --> 00:00:29,705
+it started to disagree with
+its own copies.
+
+8
+00:00:30,200 --> 00:00:33,550
+Not by much. By about the weight
+of a fingerprint.
+
+9
+00:00:33,600 --> 00:00:36,950
+But when the object in the vault
+defines the unit,
+
+10
+00:00:37,000 --> 00:00:42,254
+a disagreement that small is a problem with no
+solution — because the cylinder
+
+11
+00:00:42,304 --> 00:00:43,342
+cannot be wrong.
+
+12
+00:00:43,833 --> 00:00:47,865
+This is the story of how we noticed, and
+what we had to do about it.
+
+13
+00:00:50,967 --> 00:00:53,415
+The kilogram began as a decision.
+
+14
+00:00:53,465 --> 00:00:59,699
+In 1889, the first General Conference on Weights
+and Measures sanctioned a cylinder
+
+15
+00:00:59,749 --> 00:01:03,561
+of platinum and iridium — ninety
+per cent platinum,
+
+16
+00:01:03,611 --> 00:01:09,693
+ten per cent iridium — about thirty-nine
+millimetres tall and thirty-nine across.
+
+17
+00:01:10,200 --> 00:01:12,646
+The alloy was chosen for a reason.
+
+18
+00:01:12,696 --> 00:01:17,857
+Platinum is dense, so the object is small
+and its surface area is tiny.
+
+19
+00:01:17,907 --> 00:01:22,701
+It doesn't rust, doesn't oxidise, and
+barely reacts with anything.
+
+20
+00:01:22,751 --> 00:01:26,738
+Iridium makes it harder, so it
+wears less when handled.
+
+21
+00:01:27,233 --> 00:01:30,536
+It was given a name that
+stuck: Le Grand K.
+
+22
+00:01:30,586 --> 00:01:36,931
+It lived in a safe at the International Bureau
+of Weights and Measures, in Sèvres,
+
+23
+00:01:36,981 --> 00:01:40,362
+under three bell jars, one
+inside the other.
+
+24
+00:01:40,412 --> 00:01:45,665
+Three keys, held by three different
+people, were needed to reach it.
+
+25
+00:01:46,167 --> 00:01:50,149
+Copies were made from the same casting
+and distributed to countries,
+
+26
+00:01:50,199 --> 00:01:55,011
+so that every nation could compare its own
+standards with something traceable back
+
+27
+00:01:55,061 --> 00:01:55,782
+to the vault.
+
+28
+00:01:55,633 --> 00:02:00,768
+And here is the part that sounds like a
+joke: in its entire working life,
+
+29
+00:02:00,818 --> 00:02:06,664
+the official prototype was taken out and
+compared with its copies only a handful of
+
+30
+00:02:06,714 --> 00:02:09,363
+times. Roughly once every forty years.
+
+31
+00:02:09,867 --> 00:02:11,274
+The reason was simple.
+
+32
+00:02:11,324 --> 00:02:15,379
+Every comparison meant handling,
+cleaning and exposure to air.
+
+33
+00:02:15,429 --> 00:02:19,286
+Every measurement risked changing
+the thing being measured.
+
+34
+00:02:22,400 --> 00:02:26,346
+The third periodic verification
+ran from 1988 to 1992.
+
+35
+00:02:26,396 --> 00:02:28,936
+The prototype came out of the safe,
+
+36
+00:02:28,986 --> 00:02:33,746
+and the copies were brought back to
+Sèvres from around the world.
+
+37
+00:02:34,233 --> 00:02:39,515
+When everything was weighed against everything
+else, the numbers didn't line up.
+
+38
+00:02:39,565 --> 00:02:44,913
+Over roughly a century, the copies had gained
+mass relative to the prototype — on
+
+39
+00:02:44,963 --> 00:02:47,179
+average by about fifty micrograms.
+
+40
+00:02:47,667 --> 00:02:51,149
+Fifty micrograms is fifty
+millionths of a gram.
+
+41
+00:02:51,199 --> 00:02:57,086
+It is less than a grain of sand, less than a
+speck of dust you would never see.
+
+42
+00:02:57,600 --> 00:03:00,649
+And nobody could say what had
+actually happened.
+
+43
+00:03:00,699 --> 00:03:04,135
+Maybe the copies were gaining mass
+from contamination.
+
+44
+00:03:04,185 --> 00:03:06,459
+Maybe the prototype was losing mass,
+
+45
+00:03:06,509 --> 00:03:11,623
+shedding material from its surface every time
+it was cleaned. Most likely, both.
+
+46
+00:03:12,133 --> 00:03:17,679
+But the logic of the old definition made the
+question impossible to answer.
+
+47
+00:03:17,729 --> 00:03:22,529
+The prototype defined the kilogram, so
+its mass was one kilogram,
+
+48
+00:03:22,579 --> 00:03:25,514
+always — by definition, with zero drift.
+
+49
+00:03:25,564 --> 00:03:28,797
+If it changed, the kilogram
+changed with it,
+
+50
+00:03:28,847 --> 00:03:32,752
+and the rest of the world quietly
+changed underneath.
+
+51
+00:03:33,267 --> 00:03:35,548
+And the kilogram was not alone.
+
+52
+00:03:35,598 --> 00:03:40,736
+Under the old system it propped up other
+units: the mole, the ampere,
+
+53
+00:03:40,786 --> 00:03:44,571
+the candela all carried its
+definition inside them.
+
+54
+00:03:44,621 --> 00:03:50,661
+A drifting cylinder in a French vault was a
+foundation for a sizeable part of the
+
+55
+00:03:50,711 --> 00:03:52,090
+measurement system.
+
+56
+00:03:52,600 --> 00:03:54,029
+So the plan changed.
+
+57
+00:03:54,079 --> 00:04:00,021
+Instead of a better object, physics would use
+something that cannot be scratched,
+
+58
+00:04:00,071 --> 00:04:03,423
+contaminated or dropped: a
+constant of nature.
+
+59
+00:04:06,533 --> 00:04:10,616
+The first route was a machine
+called the Kibble balance,
+
+60
+00:04:10,666 --> 00:04:13,863
+invented by Bryan Kibble in
+Britain in 1975.
+
+61
+00:04:13,833 --> 00:04:15,390
+It works in two modes.
+
+62
+00:04:15,440 --> 00:04:21,088
+In the first, a mass sits on a pan attached to
+a coil inside a magnetic field.
+
+63
+00:04:21,138 --> 00:04:27,077
+Current flows through the coil until the
+magnetic force exactly cancels the weight
+
+64
+00:04:27,127 --> 00:04:27,954
+of the mass.
+
+65
+00:04:28,467 --> 00:04:31,091
+In the second, the mass is taken away,
+
+66
+00:04:31,141 --> 00:04:36,017
+and the same coil is moved through the
+same field at a measured speed,
+
+67
+00:04:36,067 --> 00:04:37,495
+generating a voltage.
+
+68
+00:04:38,000 --> 00:04:42,842
+Put the two together, and the strength of the
+magnet — the hardest thing in the
+
+69
+00:04:42,892 --> 00:04:44,886
+machine to measure — cancels out.
+
+70
+00:04:44,936 --> 00:04:49,840
+What remains links a mass to electrical
+measurements: to voltage, to resistance,
+
+71
+00:04:49,890 --> 00:04:52,317
+and through them to the Planck constant.
+
+72
+00:04:52,833 --> 00:04:57,833
+The American version, NIST-4, stands two
+and a half metres tall in a room
+
+73
+00:04:57,883 --> 00:05:03,505
+underground and works in vacuum, because even
+the buoyancy of air is a disturbance
+
+74
+00:05:03,555 --> 00:05:04,473
+at this level.
+
+75
+00:05:04,967 --> 00:05:09,847
+Between 2015 and 2017 it weighed masses
+more than ten thousand times.
+
+76
+00:05:09,897 --> 00:05:15,419
+The result was a value for the Planck constant
+with an uncertainty of thirteen
+
+77
+00:05:15,469 --> 00:05:16,705
+parts per billion.
+
+78
+00:05:17,200 --> 00:05:22,300
+Thirteen parts per billion is roughly one part
+in eighty million — the difference
+
+79
+00:05:22,350 --> 00:05:25,542
+of a spoonful of water in an
+Olympic swimming pool.
+
+80
+00:05:28,633 --> 00:05:31,498
+The second route took the
+opposite approach.
+
+81
+00:05:31,548 --> 00:05:35,473
+If a kilogram is an amount of matter,
+then count the matter.
+
+82
+00:05:35,967 --> 00:05:41,406
+The Avogadro project grew crystals of
+silicon-28 — one isotope,
+
+83
+00:05:41,456 --> 00:05:48,464
+purified to 99.9995 per cent — and ground them
+into spheres of almost exactly one
+
+84
+00:05:48,514 --> 00:05:52,995
+kilogram, just under ninety-four
+millimetres across.
+
+85
+00:05:53,500 --> 00:05:56,564
+They are among the roundest
+objects ever made.
+
+86
+00:05:56,614 --> 00:06:01,234
+The surface deviates from a perfect
+sphere by about fifty nanometres.
+
+87
+00:06:01,284 --> 00:06:03,603
+Scaled up to the size of the Earth,
+
+88
+00:06:03,653 --> 00:06:09,221
+the distance from the highest mountain to the
+deepest trench would be a few metres.
+
+89
+00:06:08,367 --> 00:06:12,024
+Because the crystal is pure and its
+lattice spacing is known,
+
+90
+00:06:12,074 --> 00:06:16,945
+measuring the sphere's diameter tells you how
+many atoms are inside it — a number
+
+91
+00:06:16,995 --> 00:06:20,105
+with twenty-odd digits, known
+well enough to matter.
+
+92
+00:06:20,600 --> 00:06:26,783
+Two completely different methods, one counting
+atoms and one balancing electricity
+
+93
+00:06:26,833 --> 00:06:29,823
+against gravity, had to agree. They did.
+
+94
+00:06:32,933 --> 00:06:36,287
+On the sixteenth of November
+2018, in Versailles,
+
+95
+00:06:36,337 --> 00:06:39,969
+the General Conference on Weights
+and Measures voted.
+
+96
+00:06:40,467 --> 00:06:45,033
+The Planck constant was
+fixed, by agreement,
+
+97
+00:06:45,083 --> 00:06:52,483
+at exactly 6.62607015 times ten to the
+minus thirty-four joule seconds.
+
+98
+00:06:52,533 --> 00:07:01,086
+No uncertainty, no further measurement — a
+defined value, like the speed of light.
+
+99
+00:07:01,600 --> 00:07:06,225
+On the twentieth of May 2019, the new
+definition took effect.
+
+100
+00:07:06,275 --> 00:07:10,823
+The kilogram stopped being a thing
+and became a consequence.
+
+101
+00:07:11,333 --> 00:07:16,013
+Le Grand K is still in its vault,
+still under its bell jars.
+
+102
+00:07:16,063 --> 00:07:18,299
+But it is now just an object.
+
+103
+00:07:18,349 --> 00:07:23,659
+Its mass is measured like anything else,
+and it is allowed to drift.
+
+104
+00:07:24,167 --> 00:07:28,962
+For a hundred and thirty years, humanity
+kept its unit of mass in a safe,
+
+105
+00:07:29,012 --> 00:07:32,213
+and had no way to ask whether
+it was still right.
+
+106
+00:07:32,263 --> 00:07:34,802
+Now the question can be asked anywhere,
+
+107
+00:07:34,852 --> 00:07:40,111
+by anyone with the right machine — and the
+answer will be the same in a thousand
+
+108
+00:07:40,161 --> 00:07:40,509
+years.
+
+109
+00:07:41,000 --> 00:07:43,823
+The last digit finally stopped moving.

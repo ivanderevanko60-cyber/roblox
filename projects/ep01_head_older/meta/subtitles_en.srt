@@ -1,0 +1,571 @@
+1
+00:00:00,800 --> 00:00:04,244
+Right now, your head is older
+than your feet.
+
+2
+00:00:04,733 --> 00:00:05,668
+Not by much.
+
+3
+00:00:05,718 --> 00:00:12,482
+Over an entire lifetime, the difference adds up
+to less than a tenth of a millionth
+
+4
+00:00:12,532 --> 00:00:13,467
+of a second.
+
+5
+00:00:13,967 --> 00:00:16,148
+But it's real. It has been measured.
+
+6
+00:00:16,198 --> 00:00:21,166
+And the experiments that measured it are some
+of the strangest things humans have
+
+7
+00:00:21,216 --> 00:00:21,786
+ever done.
+
+8
+00:00:22,300 --> 00:00:26,887
+We raced particles down a mountain. We
+bought plane tickets for clocks.
+
+9
+00:00:26,937 --> 00:00:32,242
+We lifted a clock by the height of two stair
+steps… and then we did something even
+
+10
+00:00:32,292 --> 00:00:33,026
+more absurd.
+
+11
+00:00:33,533 --> 00:00:37,202
+Four experiments. Each one
+smaller than the last.
+
+12
+00:00:37,252 --> 00:00:41,679
+And by the end, time won't be the
+thing you thought it was.
+
+13
+00:00:44,766 --> 00:00:49,518
+Every second, particles from deep space slam
+into the top of our atmosphere.
+
+14
+00:00:49,568 --> 00:00:54,573
+The collisions set off showers of debris — and
+some of that debris is a particle
+
+15
+00:00:54,623 --> 00:00:55,584
+called the muon.
+
+16
+00:00:56,099 --> 00:00:59,686
+A muon is like a heavier cousin
+of the electron,
+
+17
+00:00:59,736 --> 00:01:02,565
+with one big problem: it doesn't last.
+
+18
+00:01:02,615 --> 00:01:07,641
+On average, a muon falls apart in about
+two millionths of a second.
+
+19
+00:01:08,133 --> 00:01:12,141
+And muons are born high up — many
+kilometers above our heads.
+
+20
+00:01:12,191 --> 00:01:14,868
+Even moving at nearly the speed of light,
+
+21
+00:01:14,918 --> 00:01:18,859
+most of them should decay long before
+they reach the ground.
+
+22
+00:01:19,366 --> 00:01:23,390
+And yet, detectors at sea level
+catch them all the time.
+
+23
+00:01:23,899 --> 00:01:28,536
+In the early 1960s, two physicists,
+David Frisch and James Smith,
+
+24
+00:01:28,586 --> 00:01:30,771
+decided to count them properly.
+
+25
+00:01:30,821 --> 00:01:36,683
+They hauled a detector to the summit of Mount
+Washington in New Hampshire — almost
+
+26
+00:01:36,733 --> 00:01:41,514
+two kilometers up — and counted muons
+moving at one specific speed.
+
+27
+00:01:41,999 --> 00:01:46,963
+Then they brought the detector down to sea
+level, in Cambridge, Massachusetts,
+
+28
+00:01:47,013 --> 00:01:48,120
+and counted again.
+
+29
+00:01:48,633 --> 00:01:50,303
+The math looked simple.
+
+30
+00:01:50,353 --> 00:01:55,910
+Given how long a muon lives, and how long
+the trip down the mountain takes,
+
+31
+00:01:55,960 --> 00:01:58,602
+then for every 568 muons at the top,
+
+32
+00:01:58,652 --> 00:02:02,265
+only about 27 should have
+survived to the bottom.
+
+33
+00:02:02,766 --> 00:02:04,512
+They counted 412.
+
+34
+00:02:04,999 --> 00:02:07,725
+Fifteen times more than expected.
+
+35
+00:02:08,233 --> 00:02:11,365
+The only explanation that
+fits is Einstein's.
+
+36
+00:02:11,415 --> 00:02:16,810
+For a particle moving at more than
+ninety-nine percent of the speed of light,
+
+37
+00:02:16,860 --> 00:02:22,750
+time runs slow. From our point of view, the
+muon's internal clock is barely ticking.
+
+38
+00:02:22,800 --> 00:02:28,265
+A trip that should take several of its
+lifetimes takes only a fraction of one.
+
+39
+00:02:28,766 --> 00:02:30,865
+The muons weren't breaking the rules.
+
+40
+00:02:30,915 --> 00:02:33,712
+They were living in a different
+time than we are.
+
+41
+00:02:34,199 --> 00:02:40,730
+But muons are exotic — tiny, fast, far away.
+What about something ordinary?
+
+42
+00:02:40,780 --> 00:02:42,924
+Like a clock… on a plane.
+
+43
+00:02:46,033 --> 00:02:51,629
+In October 1971, a physicist named Joseph
+Hafele and an astronomer from the U.S.
+
+44
+00:02:51,679 --> 00:02:56,851
+Naval Observatory, Richard Keating, did
+something that sounds like a joke.
+
+45
+00:02:57,366 --> 00:03:00,092
+They bought plane tickets for
+atomic clocks.
+
+46
+00:03:00,599 --> 00:03:06,810
+Four cesium-beam clocks — among the most
+precise timekeepers of the era — flew on
+
+47
+00:03:06,860 --> 00:03:12,840
+ordinary commercial flights, all the way
+around the world. First heading east.
+
+48
+00:03:12,890 --> 00:03:14,231
+Then heading west.
+
+49
+00:03:14,733 --> 00:03:19,596
+Back in Washington, the Naval Observatory's
+clocks stayed on the ground,
+
+50
+00:03:19,646 --> 00:03:20,756
+ticking as usual.
+
+51
+00:03:21,266 --> 00:03:26,289
+Einstein's theories predicted two effects
+pulling in opposite directions.
+
+52
+00:03:26,339 --> 00:03:27,818
+Speed slows time down.
+
+53
+00:03:27,868 --> 00:03:32,751
+Height speeds it up — the weaker the
+gravity, the faster a clock ticks.
+
+54
+00:03:32,801 --> 00:03:35,601
+And because the Earth itself is spinning,
+
+55
+00:03:35,651 --> 00:03:40,187
+flying east or west changes how fast the
+clocks are really moving.
+
+56
+00:03:40,699 --> 00:03:45,645
+When the clocks came home, they no longer agreed
+with the ones that stayed behind.
+
+57
+00:03:46,099 --> 00:03:51,402
+The eastbound clocks had lost about 59
+billionths of a second.
+
+58
+00:03:51,452 --> 00:03:55,029
+The westbound clocks had gained about 273.
+
+59
+00:03:55,533 --> 00:03:56,784
+The predictions?
+
+60
+00:03:56,834 --> 00:04:03,536
+A loss of about 40, and a gain of about 275 —
+agreement within the uncertainties of
+
+61
+00:04:03,586 --> 00:04:04,756
+the experiment.
+
+62
+00:04:05,266 --> 00:04:10,139
+Two trips around the planet. A few
+hundred billionths of a second.
+
+63
+00:04:10,189 --> 00:04:12,302
+And Einstein was right again.
+
+64
+00:04:12,799 --> 00:04:15,227
+Today, this isn't just a curiosity.
+
+65
+00:04:15,277 --> 00:04:19,262
+GPS satellites orbit about twenty
+thousand kilometers up,
+
+66
+00:04:19,312 --> 00:04:25,066
+and their clocks run faster than ours by about
+thirty-eight millionths of a second
+
+67
+00:04:25,116 --> 00:04:25,774
+every day.
+
+68
+00:04:25,824 --> 00:04:31,366
+Leave that uncorrected, and your phone's map
+would drift by kilometers within a
+
+69
+00:04:31,416 --> 00:04:32,145
+single day.
+
+70
+00:04:32,633 --> 00:04:35,670
+But a plane still flies ten
+kilometers high.
+
+71
+00:04:35,720 --> 00:04:39,669
+How small can the difference get —
+and still be measured?
+
+72
+00:04:42,766 --> 00:04:48,187
+In 2010, physicists at the National
+Institute of Standards and Technology,
+
+73
+00:04:48,237 --> 00:04:53,584
+in Boulder, Colorado, had built something
+far better than a cesium clock.
+
+74
+00:04:54,099 --> 00:05:00,353
+Their clocks ticked using a single aluminum ion
+— one electrically charged atom,
+
+75
+00:05:00,403 --> 00:05:04,923
+held in place by electric fields and
+read out with lasers.
+
+76
+00:05:04,973 --> 00:05:10,833
+The best of them kept time to within one
+second in about 3.7 billion years.
+
+77
+00:05:10,399 --> 00:05:14,920
+So they took two of these clocks, and
+asked a very small question.
+
+78
+00:05:15,433 --> 00:05:19,780
+They raised one of them by 33
+centimeters. About a foot.
+
+79
+00:05:19,830 --> 00:05:22,371
+Roughly two steps on a staircase.
+
+80
+00:05:22,866 --> 00:05:25,004
+And the higher clock ran faster.
+
+81
+00:05:25,499 --> 00:05:26,486
+Not by much.
+
+82
+00:05:26,536 --> 00:05:33,743
+Over a 79-year lifetime, that difference adds up
+to about 90 billionths of a second.
+
+83
+00:05:34,233 --> 00:05:39,443
+But it's measurable. Every time you climb the
+stairs, you age a tiny bit faster.
+
+84
+00:05:39,493 --> 00:05:43,848
+Every time you lie down, your head and
+your feet fall back in step.
+
+85
+00:05:44,333 --> 00:05:47,732
+They tested the other half of
+Einstein's idea too.
+
+86
+00:05:47,782 --> 00:05:53,388
+They set one ion moving back and forth at just a
+few meters per second — about the
+
+87
+00:05:53,438 --> 00:05:56,561
+speed of a jog — and that
+clock ticked slower.
+
+88
+00:05:57,066 --> 00:06:03,089
+Time bends with height. Time bends with
+speed. Even at human scale.
+
+89
+00:06:03,599 --> 00:06:06,618
+But thirty-three centimeters
+still wasn't the limit.
+
+90
+00:06:09,733 --> 00:06:16,701
+In 2022, a team led by physicist Jun Ye at JILA
+— a joint institute of NIST and the
+
+91
+00:06:16,751 --> 00:06:22,450
+University of Colorado Boulder — pushed
+the question to its extreme.
+
+92
+00:06:22,199 --> 00:06:26,133
+They didn't compare two clocks.
+They used one cloud.
+
+93
+00:06:26,633 --> 00:06:29,354
+About a hundred thousand strontium atoms,
+
+94
+00:06:29,404 --> 00:06:34,424
+trapped in a vacuum chamber and cooled to a
+tiny fraction of a degree above
+
+95
+00:06:34,474 --> 00:06:35,370
+absolute zero.
+
+96
+00:06:35,420 --> 00:06:40,980
+Laser light stacks them into thin layers — like
+a stack of pancakes made of light —
+
+97
+00:06:41,030 --> 00:06:43,954
+and every atom in the stack
+becomes a clock.
+
+98
+00:06:44,466 --> 00:06:50,098
+The whole stack is about a millimeter tall.
+Roughly the width of a sharp pencil tip.
+
+99
+00:06:50,599 --> 00:06:54,565
+Then they compared the ticking at the top of
+the cloud with the ticking at the
+
+100
+00:06:54,615 --> 00:06:54,925
+bottom.
+
+101
+00:06:55,433 --> 00:06:57,767
+And the top was ticking faster.
+
+102
+00:06:58,266 --> 00:07:03,450
+Across one millimeter, the difference in rate
+is about one part in ten billion
+
+103
+00:07:03,500 --> 00:07:03,987
+billion.
+
+104
+00:07:04,037 --> 00:07:09,557
+To see it, the team compared frequencies with an
+uncertainty of just 7.6 parts in a
+
+105
+00:07:09,607 --> 00:07:11,235
+thousand billion billion.
+
+106
+00:07:11,285 --> 00:07:16,805
+If a clock were that precise, it would drift
+less than a hundredth of a second over
+
+107
+00:07:16,855 --> 00:07:18,885
+the entire age of the universe.
+
+108
+00:07:19,399 --> 00:07:22,405
+And they didn't just catch
+the effect once.
+
+109
+00:07:22,455 --> 00:07:28,233
+They saw it as a smooth gradient — tick rates
+changing steadily from the bottom of
+
+110
+00:07:28,283 --> 00:07:33,422
+the cloud to the top — exactly as
+Einstein's general relativity predicts.
+
+111
+00:07:33,933 --> 00:07:38,203
+Our best clocks are now so sensitive that
+they can feel time change across
+
+112
+00:07:38,253 --> 00:07:40,479
+something smaller than a grain of sand.
+
+113
+00:07:40,966 --> 00:07:43,887
+So here is where four
+experiments leave us.
+
+114
+00:07:44,399 --> 00:07:49,140
+There is no single time. No master clock
+ticking for the whole universe.
+
+115
+00:07:49,190 --> 00:07:53,864
+Every place has its own time — a little
+faster where gravity is weaker,
+
+116
+00:07:53,914 --> 00:07:56,725
+a little slower where you're
+moving faster.
+
+117
+00:07:57,233 --> 00:08:02,901
+A particle racing down a mountain. Clocks with
+plane tickets. Two stair steps.
+
+118
+00:08:02,951 --> 00:08:04,954
+A cloud one millimeter tall.
+
+119
+00:08:05,466 --> 00:08:08,208
+Time isn't the background of the universe.
+
+120
+00:08:08,258 --> 00:08:11,000
+It's part of the landscape — and it bends.
+
+121
+00:08:11,499 --> 00:08:16,985
+And right now, as you watch this, the top of
+your head is getting older than your
+
+122
+00:08:17,035 --> 00:08:17,327
+feet.
+
+123
+00:08:17,832 --> 00:08:20,264
+Not by much. But it is.

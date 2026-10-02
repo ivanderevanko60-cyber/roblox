@@ -1,0 +1,319 @@
+1
+00:00:00,000 --> 00:00:05,079
+At one in the morning, gold miners in the Rocky
+Mountains got up and started making
+
+2
+00:00:05,129 --> 00:00:05,697
+breakfast.
+
+3
+00:00:06,033 --> 00:00:09,545
+The sky was so bright, they
+thought the Sun had risen.
+
+4
+00:00:09,867 --> 00:00:15,700
+That same night, telegraph wires threw
+sparks. Operators got electric shocks.
+
+5
+00:00:15,750 --> 00:00:18,680
+In some offices, the paper caught fire.
+
+6
+00:00:19,000 --> 00:00:20,605
+It was September 1859.
+
+7
+00:00:20,655 --> 00:00:26,624
+And the Sun had just hit the Earth with the
+biggest storm we have ever recorded.
+
+8
+00:00:26,967 --> 00:00:32,023
+In 2012, it fired another one just as big.
+It missed us by about a week.
+
+9
+00:00:32,367 --> 00:00:37,275
+This is the story of the storm that already
+happened — and what it would do to a
+
+10
+00:00:37,325 --> 00:00:39,444
+world that now runs on electricity.
+
+11
+00:00:39,767 --> 00:00:42,406
+On the morning of the first of September,
+
+12
+00:00:42,456 --> 00:00:46,865
+an English astronomer named Richard
+Carrington was drawing sunspots.
+
+13
+00:00:47,200 --> 00:00:51,531
+He pointed his telescope at the Sun and
+projected its image onto a sheet of paper —
+
+14
+00:00:51,581 --> 00:00:52,956
+the safe way to look at it.
+
+15
+00:00:53,300 --> 00:00:59,580
+At eleven eighteen, two beads of blinding
+white light burst out of a group of
+
+16
+00:00:59,630 --> 00:01:00,320
+sunspots.
+
+17
+00:01:00,667 --> 00:01:02,044
+He ran to find a witness.
+
+18
+00:01:02,094 --> 00:01:06,039
+By the time he got back, a minute later,
+the light was already fading.
+
+19
+00:01:06,089 --> 00:01:07,808
+Five minutes — and it was gone.
+
+20
+00:01:08,133 --> 00:01:11,573
+Carrington had seen the first
+solar flare in history.
+
+21
+00:01:11,900 --> 00:01:16,689
+What he couldn't see was the cloud it launched:
+billions of tonnes of magnetised
+
+22
+00:01:16,739 --> 00:01:18,503
+gas, flying towards the Earth.
+
+23
+00:01:18,833 --> 00:01:22,832
+Storms like that usually take two
+or three days to cross.
+
+24
+00:01:22,882 --> 00:01:25,745
+This one took seventeen and a half hours.
+
+25
+00:01:26,067 --> 00:01:29,341
+When it hit, the Earth's magnetic
+field shook like a bell.
+
+26
+00:01:29,667 --> 00:01:34,664
+Auroras — the northern lights — were seen over
+Cuba, over Jamaica, over Hawaii.
+
+27
+00:01:35,000 --> 00:01:40,551
+In the north-eastern United States, people
+read their newspapers outside,
+
+28
+00:01:40,601 --> 00:01:43,390
+at midnight, by the light of the sky.
+
+29
+00:01:43,733 --> 00:01:46,161
+But the strangest thing
+happened on the wires.
+
+30
+00:01:46,500 --> 00:01:51,716
+The storm pushed electric currents into
+every long metal line on Earth.
+
+31
+00:01:51,766 --> 00:01:56,018
+And in 1859, the longest metal lines
+were telegraph wires.
+
+32
+00:01:56,333 --> 00:02:02,285
+Between Boston and Portland, the operators
+unplugged their batteries completely —
+
+33
+00:02:02,335 --> 00:02:06,731
+and kept sending messages for two
+hours, powered by the sky.
+
+34
+00:02:07,067 --> 00:02:09,591
+In 1859 that was a curiosity.
+
+35
+00:02:09,641 --> 00:02:14,473
+Today, we have wrapped the whole
+planet in metal lines.
+
+36
+00:02:14,800 --> 00:02:18,074
+We don't have to guess. Smaller
+storms have already shown us.
+
+37
+00:02:18,400 --> 00:02:23,898
+In March 1989, a storm hit Quebec. The power grid
+collapsed in about ninety seconds.
+
+38
+00:02:23,948 --> 00:02:26,276
+Six million people lost electricity.
+
+39
+00:02:26,600 --> 00:02:32,206
+In 1972, a storm set off dozens of American
+sea mines off the coast of Vietnam.
+
+40
+00:02:32,256 --> 00:02:35,356
+Nobody touched them. The
+magnetic field did.
+
+41
+00:02:35,700 --> 00:02:40,880
+In 2022, SpaceX launched forty-nine Starlink
+satellites into a minor storm.
+
+42
+00:02:40,930 --> 00:02:46,458
+It puffed up the atmosphere, and dragged
+thirty-eight of them back down to burn.
+
+43
+00:02:46,800 --> 00:02:50,946
+And in May 2024, in the middle
+of planting season,
+
+44
+00:02:50,996 --> 00:02:57,409
+farm tractors across the American Midwest
+lost their GPS and stopped steering
+
+45
+00:02:57,459 --> 00:02:58,332
+themselves.
+
+46
+00:02:58,666 --> 00:03:01,548
+None of these were
+Carrington-sized. Not even close.
+
+47
+00:03:01,866 --> 00:03:06,360
+On the twenty-third of July 2012, the
+Sun fired a cloud that was.
+
+48
+00:03:06,700 --> 00:03:12,317
+A NASA spacecraft called STEREO happened to
+be in its path, and measured it.
+
+49
+00:03:12,367 --> 00:03:15,076
+It was as fast as 1859. Maybe faster.
+
+50
+00:03:15,400 --> 00:03:19,506
+It crossed the Earth's orbit where we had
+been about a week earlier.
+
+51
+00:03:19,833 --> 00:03:25,674
+A report for the US National Academies
+estimated what a direct hit could cost: up
+
+52
+00:03:25,724 --> 00:03:31,275
+to two trillion dollars in the first year —
+and four to ten years to recover.
+
+53
+00:03:31,600 --> 00:03:35,037
+The weakest point is the giant
+transformers that run the grid.
+
+54
+00:03:35,087 --> 00:03:37,567
+Burn enough of them, and
+there are no spares.
+
+55
+00:03:37,617 --> 00:03:40,998
+Each one is built to order, and takes
+a year or more to make.
+
+56
+00:03:41,333 --> 00:03:44,001
+Today, we're not drawing
+sunspots on paper.
+
+57
+00:03:44,333 --> 00:03:46,929
+Spacecraft watch the Sun all
+day, every day.
+
+58
+00:03:46,979 --> 00:03:51,859
+When a cloud leaves it, we know within hours —
+and get one to three days' warning.
+
+59
+00:03:52,200 --> 00:03:57,643
+And a probe parked a million and a half
+kilometres towards the Sun gives us the
+
+60
+00:03:57,693 --> 00:04:01,746
+final alarm: somewhere between
+fifteen minutes and an hour.
+
+61
+00:04:02,066 --> 00:04:06,000
+Enough to put satellites to sleep, reroute
+flights away from the poles,
+
+62
+00:04:06,050 --> 00:04:07,683
+and ease the load on the grid.
+
+63
+00:04:08,000 --> 00:04:10,302
+So how likely is another Carrington?
+
+64
+00:04:10,633 --> 00:04:13,647
+One study put it at about twelve
+percent per decade.
+
+65
+00:04:13,697 --> 00:04:15,769
+Later ones say closer to one or two.
+
+66
+00:04:16,100 --> 00:04:19,773
+Nobody knows the last digit. We
+only know it isn't zero.
+
+67
+00:04:20,100 --> 00:04:22,887
+Somewhere on the Sun, the next one
+is already waiting.
+
+68
+00:04:22,937 --> 00:04:24,516
+This time, we'll see it coming.

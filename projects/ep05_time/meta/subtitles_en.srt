@@ -1,0 +1,400 @@
+1
+00:00:00,000 --> 00:00:05,720
+On the thirtieth of June 2012, the world
+added one second to the clock.
+
+2
+00:00:06,067 --> 00:00:08,251
+Within minutes, Reddit went down.
+
+3
+00:00:08,301 --> 00:00:12,109
+An airline in Australia couldn't
+check in its passengers.
+
+4
+00:00:12,159 --> 00:00:14,411
+Servers across the internet froze.
+
+5
+00:00:14,733 --> 00:00:20,289
+All because of a second that, on most
+clocks, isn't even allowed to exist.
+
+6
+00:00:20,633 --> 00:00:24,945
+That second exists because of something most
+people never hear: right now,
+
+7
+00:00:24,995 --> 00:00:27,657
+nobody on Earth knows exactly
+what time it is.
+
+8
+00:00:28,000 --> 00:00:30,283
+Not your phone. Not the
+satellites overhead.
+
+9
+00:00:30,333 --> 00:00:33,888
+The official time for this moment will be
+worked out weeks from now,
+
+10
+00:00:33,938 --> 00:00:35,319
+in an office outside Paris.
+
+11
+00:00:35,633 --> 00:00:40,779
+This is the story of who decides what time it is
+— and why we stopped trusting the
+
+12
+00:00:40,829 --> 00:00:41,729
+Earth to do it.
+
+13
+00:00:42,067 --> 00:00:44,607
+For most of history, time
+came from the Sun.
+
+14
+00:00:44,657 --> 00:00:47,197
+When it was highest in the
+sky, it was noon.
+
+15
+00:00:47,533 --> 00:00:49,834
+Which meant every town had its own noon.
+
+16
+00:00:49,884 --> 00:00:52,949
+In Bristol, it came about ten
+minutes after London's.
+
+17
+00:00:53,266 --> 00:00:58,419
+The clock on Bristol's Corn Exchange still has
+two minute hands. One for Bristol.
+
+18
+00:00:58,469 --> 00:00:59,382
+One for London.
+
+19
+00:00:59,699 --> 00:01:00,998
+Then came the railways.
+
+20
+00:01:01,048 --> 00:01:05,632
+A timetable with a different time at every
+station was a recipe for collisions.
+
+21
+00:01:05,682 --> 00:01:08,271
+In 1880, Britain made
+Greenwich time the law.
+
+22
+00:01:08,599 --> 00:01:11,930
+And a second was still just a
+slice of a day: one
+
+23
+00:01:11,980 --> 00:01:15,931
+eighty-six-thousand-four-hundredth
+of a turn of the Earth.
+
+24
+00:01:16,266 --> 00:01:19,979
+There was only one problem. The
+Earth is a terrible clock.
+
+25
+00:01:20,299 --> 00:01:22,181
+The tides drag on it like a brake.
+
+26
+00:01:22,231 --> 00:01:26,498
+Earthquakes, melting ice and the churning
+core nudge it faster, then slower.
+
+27
+00:01:26,548 --> 00:01:28,771
+No two days are exactly the same length.
+
+28
+00:01:29,099 --> 00:01:34,331
+So in the 1950s, scientists stopped looking up
+at the sky — and looked inside an
+
+29
+00:01:34,381 --> 00:01:35,189
+atom instead.
+
+30
+00:01:35,533 --> 00:01:38,903
+A caesium atom absorbs microwaves
+at one exact frequency.
+
+31
+00:01:38,953 --> 00:01:43,223
+Every caesium atom in the universe has the
+same one. It never wears out.
+
+32
+00:01:43,273 --> 00:01:44,423
+It never slows down.
+
+33
+00:01:44,766 --> 00:01:49,641
+In 1955, near London, Louis Essen built the
+first clock that counted those
+
+34
+00:01:49,691 --> 00:01:53,834
+microwaves. And it showed something
+awkward almost immediately.
+
+35
+00:01:54,166 --> 00:01:58,488
+The atom was keeping perfect time. It was
+the planet that was wobbling.
+
+36
+00:01:58,833 --> 00:02:03,274
+Astronomers had kept the world's time for
+centuries. They did not give it up easily.
+
+37
+00:02:03,324 --> 00:02:04,397
+It took twelve years.
+
+38
+00:02:04,733 --> 00:02:10,198
+In 1967, the second was redefined: nine billion,
+one hundred and ninety-two million,
+
+39
+00:02:10,248 --> 00:02:12,561
+six hundred and thirty-one thousand,
+
+40
+00:02:12,611 --> 00:02:16,303
+seven hundred and seventy
+vibrations of caesium. Exactly.
+
+41
+00:02:16,633 --> 00:02:20,492
+That solved one problem and created
+another. Atomic time is perfect.
+
+42
+00:02:20,542 --> 00:02:24,919
+Earth time is not. And people still want noon
+to happen when the Sun is high.
+
+43
+00:02:25,233 --> 00:02:33,354
+So since 1972, whenever the planet falls
+almost a second behind the atoms,
+
+44
+00:02:33,404 --> 00:02:39,868
+the world adds one. 23:59:59. Then
+23:59:60. Then midnight.
+
+45
+00:02:40,199 --> 00:02:42,548
+It has happened twenty-seven times.
+
+46
+00:02:42,598 --> 00:02:46,181
+And the one in 2012 is the one
+that took down Reddit.
+
+47
+00:02:46,499 --> 00:02:49,302
+Software assumes a minute has
+sixty seconds.
+
+48
+00:02:49,352 --> 00:02:52,349
+Give it sixty-one, and some of
+it simply stops.
+
+49
+00:02:52,666 --> 00:02:54,738
+Google stopped playing along.
+
+50
+00:02:54,788 --> 00:02:58,396
+Now it smears the extra second
+across a whole day,
+
+51
+00:02:58,446 --> 00:03:04,176
+running its clocks very slightly slow until
+the second has quietly disappeared.
+
+52
+00:03:04,499 --> 00:03:06,438
+In 2022, the world gave up.
+
+53
+00:03:06,488 --> 00:03:09,532
+The leap second will be abolished by 2035,
+
+54
+00:03:09,582 --> 00:03:13,879
+and atomic time and the Sun will be
+allowed to drift apart.
+
+55
+00:03:14,199 --> 00:03:18,377
+But there's a twist. Lately, the Earth
+has been spinning faster.
+
+56
+00:03:18,427 --> 00:03:23,662
+For the first time in history, the next leap
+second might have to be taken away.
+
+57
+00:03:23,999 --> 00:03:27,509
+So who actually decides what time
+it is? Not one clock.
+
+58
+00:03:27,559 --> 00:03:30,487
+Even atomic clocks drift, each
+in its own way.
+
+59
+00:03:30,833 --> 00:03:35,862
+Instead, more than four hundred atomic clocks
+in about eighty laboratories send
+
+60
+00:03:35,912 --> 00:03:40,169
+their readings to the International
+Bureau of Weights and Measures,
+
+61
+00:03:40,219 --> 00:03:41,391
+just outside Paris.
+
+62
+00:03:41,733 --> 00:03:46,842
+There they are compared and averaged. The
+steadiest clocks get the biggest vote.
+
+63
+00:03:46,892 --> 00:03:51,743
+The result is Coordinated Universal Time —
+the time the whole world runs on.
+
+64
+00:03:52,066 --> 00:03:53,757
+And here is the strange part.
+
+65
+00:03:53,807 --> 00:03:58,259
+The answer is published once a month — for
+the month that has already gone.
+
+66
+00:03:58,599 --> 00:04:01,062
+Official time only ever
+exists in the past.
+
+67
+00:04:01,112 --> 00:04:05,971
+Every clock you own is showing a prediction of
+what that answer will turn out to be.
+
+68
+00:04:06,021 --> 00:04:09,069
+Usually right to within a few
+billionths of a second.
+
+69
+00:04:09,399 --> 00:04:13,559
+Your phone gets its time from satellites,
+twenty thousand kilometres up,
+
+70
+00:04:13,609 --> 00:04:15,196
+each carrying atomic clocks.
+
+71
+00:04:15,533 --> 00:04:19,885
+Up there, time runs differently. Weaker
+gravity makes their clocks run fast.
+
+72
+00:04:19,935 --> 00:04:21,739
+Their speed makes them run slow.
+
+73
+00:04:21,789 --> 00:04:26,141
+Add it up, and each one gains thirty-eight
+millionths of a second every day.
+
+74
+00:04:26,466 --> 00:04:31,762
+Leave that uncorrected, and your map would be
+wrong by around ten kilometres — by
+
+75
+00:04:31,812 --> 00:04:32,356
+tomorrow.
+
+76
+00:04:32,699 --> 00:04:36,738
+So the satellite clocks are built to tick
+slightly slow on the ground.
+
+77
+00:04:36,788 --> 00:04:38,841
+In orbit, Einstein makes them right.
+
+78
+00:04:39,166 --> 00:04:42,171
+The newest clocks use light
+instead of microwaves.
+
+79
+00:04:42,221 --> 00:04:46,082
+Lift one by a single centimetre, and it
+measurably ticks faster.
+
+80
+00:04:46,399 --> 00:04:48,744
+Time isn't even the same from
+floor to floor.
+
+81
+00:04:48,794 --> 00:04:52,949
+Walk upstairs, and your head ages faster than
+your feet — we made a whole video
+
+82
+00:04:52,999 --> 00:04:53,535
+about that.
+
+83
+00:04:53,866 --> 00:04:59,337
+So what time is it, right now? The honest
+answer is: we'll know next month.
+
+84
+00:04:59,387 --> 00:05:02,502
+Until then, four hundred
+clocks are voting.
+
+85
+00:05:02,833 --> 00:05:06,269
+The last digit of time is always a
+little bit in the future.

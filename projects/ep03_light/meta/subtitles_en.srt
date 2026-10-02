@@ -1,0 +1,470 @@
+1
+00:00:00,800 --> 00:00:10,644
+The speed of light is 299,792,458 metres per
+second. Not approximately. Exactly.
+
+2
+00:00:11,133 --> 00:00:16,087
+Sunlight takes about eight minutes to
+reach us. Everyone knows that.
+
+3
+00:00:16,137 --> 00:00:20,282
+But the number behind it is
+strange. It has no error bar.
+
+4
+00:00:20,332 --> 00:00:23,078
+No last digit still being argued over.
+
+5
+00:00:23,128 --> 00:00:26,463
+And every other measurement
+ever made has one.
+
+6
+00:00:26,967 --> 00:00:29,562
+The reason is that we
+stopped measuring it.
+
+7
+00:00:29,612 --> 00:00:34,297
+Today the speed of light is a decision — and
+everything else bends around it.
+
+8
+00:00:34,800 --> 00:00:38,815
+Getting there took three hundred
+years, a moon of Jupiter,
+
+9
+00:00:38,865 --> 00:00:42,879
+a spinning wheel with 720 teeth, a
+mountain in California,
+
+10
+00:00:42,929 --> 00:00:46,734
+and a laser that finally made the
+question meaningless.
+
+11
+00:00:47,200 --> 00:00:49,730
+This is how we learned how fast light is.
+
+12
+00:00:52,833 --> 00:00:57,616
+For most of history, the honest answer was
+that light had no speed at all.
+
+13
+00:00:57,666 --> 00:01:01,469
+Galileo tried to measure it with two
+lanterns on two hills,
+
+14
+00:01:01,519 --> 00:01:05,648
+and found only that light was faster
+than two men with shutters.
+
+15
+00:01:06,133 --> 00:01:09,355
+The first real answer came from
+the wrong problem.
+
+16
+00:01:09,405 --> 00:01:14,720
+In the 1670s, astronomers in Paris were building
+tables for the moons of Jupiter —
+
+17
+00:01:14,770 --> 00:01:20,152
+because a moon that eclipses on schedule is a
+clock that everyone on Earth can see,
+
+18
+00:01:20,202 --> 00:01:22,769
+and a clock like that solves navigation.
+
+19
+00:01:23,267 --> 00:01:29,237
+Io, the innermost large moon, goes behind
+Jupiter every forty-two and a half hours.
+
+20
+00:01:29,287 --> 00:01:31,413
+Predictable. Except it wasn't.
+
+21
+00:01:31,463 --> 00:01:35,547
+The eclipses ran early when Earth
+was closest to Jupiter,
+
+22
+00:01:35,597 --> 00:01:38,303
+and late when Earth was farthest away.
+
+23
+00:01:38,800 --> 00:01:45,344
+In 1676, the Danish astronomer Ole Rømer said
+the obvious thing that nobody wanted
+
+24
+00:01:45,394 --> 00:01:49,526
+to say: the eclipses are on time.
+The light is late.
+
+25
+00:01:50,033 --> 00:01:52,765
+When Earth is on the far
+side of its orbit,
+
+26
+00:01:52,815 --> 00:01:57,489
+the light from Io has to cross the extra
+width of that orbit to reach us.
+
+27
+00:01:57,539 --> 00:02:01,371
+Rømer estimated that crossing took
+about twenty-two minutes.
+
+28
+00:02:01,867 --> 00:02:04,433
+With the orbit sizes we know today,
+
+29
+00:02:04,483 --> 00:02:10,489
+twenty-two minutes gives a speed of light of
+about 227,000 kilometres per second.
+
+30
+00:02:10,539 --> 00:02:13,703
+That is about twenty-five
+per cent too low.
+
+31
+00:02:14,200 --> 00:02:19,833
+And it did not matter. Rømer's number was
+wrong; Rømer's point was right.
+
+32
+00:02:19,883 --> 00:02:21,157
+Light takes time.
+
+33
+00:02:21,207 --> 00:02:27,463
+After 1676, the speed of light was a quantity —
+something with a value that could
+
+34
+00:02:27,513 --> 00:02:28,942
+be measured better.
+
+35
+00:02:32,033 --> 00:02:36,750
+The next step took another 170 years, and
+it happened on the ground.
+
+36
+00:02:37,267 --> 00:02:43,257
+In 1849, Hippolyte Fizeau sent a beam of light
+from a house in Suresnes to a mirror
+
+37
+00:02:43,307 --> 00:02:49,007
+on Montmartre — a round trip of about
+seventeen kilometres — and put a spinning
+
+38
+00:02:49,057 --> 00:02:50,899
+toothed wheel in its path.
+
+39
+00:02:51,400 --> 00:02:56,080
+Light goes out through a gap between two
+teeth, travels to the mirror,
+
+40
+00:02:56,130 --> 00:02:57,094
+and comes back.
+
+41
+00:02:57,144 --> 00:03:01,824
+If the wheel has turned by exactly one
+tooth while the light was away,
+
+42
+00:03:01,874 --> 00:03:05,946
+the returning beam hits metal, and
+the observer sees nothing.
+
+43
+00:03:06,433 --> 00:03:11,267
+Fizeau turned the wheel faster and
+faster until the light went out.
+
+44
+00:03:11,317 --> 00:03:15,713
+Seven hundred and twenty teeth,
+twenty-five turns per second,
+
+45
+00:03:15,763 --> 00:03:21,763
+seventeen kilometres of travel — and the speed
+of light fell out of the arithmetic:
+
+46
+00:03:21,813 --> 00:03:23,950
+313,000 kilometres per second.
+
+47
+00:03:24,467 --> 00:03:28,597
+About four and a half per cent too
+high, measured with a wheel,
+
+48
+00:03:28,647 --> 00:03:30,588
+a lamp and a mirror on a hill.
+
+49
+00:03:31,100 --> 00:03:36,937
+Thirteen years later, Léon Foucault replaced
+the wheel with a rotating mirror,
+
+50
+00:03:36,987 --> 00:03:43,125
+which let him do the whole experiment on a bench
+instead of across a city — with a
+
+51
+00:03:43,175 --> 00:03:46,069
+light path of only about twenty metres.
+
+52
+00:03:46,119 --> 00:03:49,465
+In 1862 he got 298,000
+kilometres per second,
+
+53
+00:03:49,515 --> 00:03:53,842
+within about six tenths of a per
+cent of the modern value.
+
+54
+00:03:54,300 --> 00:03:58,299
+For the first time, the number was
+right to within a per cent.
+
+55
+00:03:58,349 --> 00:04:00,715
+The argument moved to the next digit.
+
+56
+00:04:03,800 --> 00:04:09,407
+In 1926, Albert Michelson ran the experiment
+across the sky of southern California
+
+57
+00:04:09,457 --> 00:04:12,235
+— from Mount Wilson to Mount San Antonio,
+
+58
+00:04:12,285 --> 00:04:17,823
+a distance of about thirty-five kilometres,
+surveyed to within a few centimetres.
+
+59
+00:04:18,333 --> 00:04:23,687
+At one end, an eight-sided mirror spun at five
+hundred and twenty-eight turns a
+
+60
+00:04:23,737 --> 00:04:24,166
+second.
+
+61
+00:04:24,216 --> 00:04:27,655
+Light left one face, crossed the
+valley, came back,
+
+62
+00:04:27,705 --> 00:04:33,265
+and struck the next face — but only if the
+mirror had turned exactly one eighth of
+
+63
+00:04:33,315 --> 00:04:36,275
+a revolution while the light
+was in the air.
+
+64
+00:04:36,767 --> 00:04:43,705
+His answer: 299,796 kilometres per
+second, give or take one.
+
+65
+00:04:44,200 --> 00:04:49,700
+By now the limit was no longer the cleverness of
+the experiment. It was the ruler.
+
+66
+00:04:49,750 --> 00:04:52,205
+To state a speed you need a distance,
+
+67
+00:04:52,255 --> 00:04:57,146
+and the metre itself was a scratch on a bar
+of metal in a vault in Paris.
+
+68
+00:05:00,233 --> 00:05:02,497
+Speed is distance over time.
+
+69
+00:05:02,547 --> 00:05:09,191
+By the 1960s, time had become extraordinarily
+good: atomic clocks could count the
+
+70
+00:05:09,241 --> 00:05:13,571
+seconds to eleven digits.
+Distance could not keep up.
+
+71
+00:05:14,067 --> 00:05:15,423
+Then came the laser.
+
+72
+00:05:15,473 --> 00:05:21,189
+A stabilised laser has a frequency you can count
+and a wavelength you can measure.
+
+73
+00:05:21,239 --> 00:05:26,393
+Multiply them together and you get a speed —
+directly, in one measurement.
+
+74
+00:05:26,900 --> 00:05:31,995
+In 1972, at the National Bureau of
+Standards in Boulder,
+
+75
+00:05:32,045 --> 00:05:39,254
+a team led by Kenneth Evenson did exactly that
+with a methane-stabilised laser.
+
+76
+00:05:39,304 --> 00:05:43,481
+Their result: 299,792,456.2
+metres per second,
+
+77
+00:05:43,531 --> 00:05:51,107
+with an uncertainty of 1.1 metres per second — a
+hundred times better than anything
+
+78
+00:05:51,157 --> 00:05:52,026
+before it.
+
+79
+00:05:52,533 --> 00:05:54,234
+And that created a problem.
+
+80
+00:05:54,284 --> 00:05:59,161
+The measurement was now more precise than the
+definition of the metre it was
+
+81
+00:05:59,211 --> 00:06:00,263
+measured against.
+
+82
+00:06:00,313 --> 00:06:04,089
+The uncertainty in the speed of
+light was, almost entirely,
+
+83
+00:06:04,139 --> 00:06:05,969
+the uncertainty in the ruler.
+
+84
+00:06:09,067 --> 00:06:17,148
+In 1983, the General Conference on Weights and
+Measures took the obvious way out.
+
+85
+00:06:17,198 --> 00:06:24,376
+It stopped measuring the speed of light and
+defined it: exactly 299,792,
+
+86
+00:06:24,426 --> 00:06:26,584
+458 metres per second.
+
+87
+00:06:27,100 --> 00:06:32,950
+Then it redefined the metre in
+terms of that number.
+
+88
+00:06:33,000 --> 00:06:42,027
+A metre is the distance light travels in one
+299-million-792-thousand-458th of a
+
+89
+00:06:42,077 --> 00:06:42,821
+second.
+
+90
+00:06:43,333 --> 00:06:44,931
+The trade was deliberate.
+
+91
+00:06:44,981 --> 00:06:48,424
+We gave up the ability to measure
+the speed of light,
+
+92
+00:06:48,474 --> 00:06:53,961
+and in exchange we got a ruler that is the same
+everywhere in the universe, forever.
+
+93
+00:06:54,467 --> 00:06:59,610
+It is the same move that would be made for the
+kilogram thirty-six years later:
+
+94
+00:06:59,660 --> 00:07:04,605
+replace an object with a constant, and let
+the object become just an object.
+
+95
+00:07:05,100 --> 00:07:08,494
+So when someone asks how we know
+the speed of light,
+
+96
+00:07:08,544 --> 00:07:10,614
+the honest answer has two parts.
+
+97
+00:07:10,664 --> 00:07:13,197
+We measured it for three hundred years,
+
+98
+00:07:13,247 --> 00:07:16,376
+from a late moon to a spinning
+wheel to a laser.
+
+99
+00:07:16,426 --> 00:07:21,344
+And then we stopped, because we had learned
+enough to make it a definition.
+
+100
+00:07:21,833 --> 00:07:24,754
+The last digit stopped moving in 1983.

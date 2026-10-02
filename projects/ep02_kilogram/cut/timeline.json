@@ -1,0 +1,279 @@
+{
+ "total": 468.833333,
+ "lines": [
+  {
+   "i": 0,
+   "start": 0.8,
+   "dur": 10.678,
+   "text": "The most important lump of metal in the world has been losing weight. Or everything else has been gaining it. For a hundred and thirty years, nobody could tell which.",
+   "section": "0. Cold open (0:00–0:50)"
+  },
+  {
+   "i": 1,
+   "start": 11.933,
+   "dur": 11.984,
+   "text": "Because that lump of metal was the kilogram. Not a copy of it — the unit itself. By definition it weighed exactly one kilogram, and it could never be wrong.",
+   "section": "0. Cold open (0:00–0:50)"
+  },
+  {
+   "i": 2,
+   "start": 24.367,
+   "dur": 5.388,
+   "text": "And at some point in the twentieth century, it started to disagree with its own copies.",
+   "section": "0. Cold open (0:00–0:50)"
+  },
+  {
+   "i": 3,
+   "start": 30.2,
+   "dur": 13.192,
+   "text": "Not by much. By about the weight of a fingerprint. But when the object in the vault defines the unit, a disagreement that small is a problem with no solution — because the cylinder cannot be wrong.",
+   "section": "0. Cold open (0:00–0:50)"
+  },
+  {
+   "i": 4,
+   "start": 43.833,
+   "dur": 4.082,
+   "text": "This is the story of how we noticed, and what we had to do about it.",
+   "section": "0. Cold open (0:00–0:50)"
+  },
+  {
+   "i": 5,
+   "start": 50.967,
+   "dur": 18.776,
+   "text": "The kilogram began as a decision. In 1889, the first General Conference on Weights and Measures sanctioned a cylinder of platinum and iridium — ninety per cent platinum, ten per cent iridium — about thirty-nine millimetres tall and thirty-nine across.",
+   "section": "I. The metal (0:50–3:00)"
+  },
+  {
+   "i": 6,
+   "start": 70.2,
+   "dur": 16.588,
+   "text": "The alloy was chosen for a reason. Platinum is dense, so the object is small and its surface area is tiny. It doesn't rust, doesn't oxidise, and barely reacts with anything. Iridium makes it harder, so it wears less when handled.",
+   "section": "I. The metal (0:50–3:00)"
+  },
+  {
+   "i": 7,
+   "start": 87.233,
+   "dur": 18.482,
+   "text": "It was given a name that stuck: Le Grand K. It lived in a safe at the International Bureau of Weights and Measures, in Sèvres, under three bell jars, one inside the other. Three keys, held by three different people, were needed to reach it.",
+   "section": "I. The metal (0:50–3:00)"
+  },
+  {
+   "i": 8,
+   "start": 106.167,
+   "dur": 9.665,
+   "text": "Copies were made from the same casting and distributed to countries, so that every nation could compare its own standards with something traceable back to the vault.",
+   "section": "I. The metal (0:50–3:00)"
+  },
+  {
+   "i": 9,
+   "start": 115.633,
+   "dur": 13.78,
+   "text": "And here is the part that sounds like a joke: in its entire working life, the official prototype was taken out and compared with its copies only a handful of times. Roughly once every forty years.",
+   "section": "I. The metal (0:50–3:00)"
+  },
+  {
+   "i": 10,
+   "start": 129.867,
+   "dur": 9.469,
+   "text": "The reason was simple. Every comparison meant handling, cleaning and exposure to air. Every measurement risked changing the thing being measured.",
+   "section": "I. The metal (0:50–3:00)"
+  },
+  {
+   "i": 11,
+   "start": 142.4,
+   "dur": 11.396,
+   "text": "The third periodic verification ran from 1988 to 1992. The prototype came out of the safe, and the copies were brought back to Sèvres from around the world.",
+   "section": "II. The drift (3:00–5:00)"
+  },
+  {
+   "i": 12,
+   "start": 154.233,
+   "dur": 12.996,
+   "text": "When everything was weighed against everything else, the numbers didn't line up. Over roughly a century, the copies had gained mass relative to the prototype — on average by about fifty micrograms.",
+   "section": "II. The drift (3:00–5:00)"
+  },
+  {
+   "i": 13,
+   "start": 167.667,
+   "dur": 9.469,
+   "text": "Fifty micrograms is fifty millionths of a gram. It is less than a grain of sand, less than a speck of dust you would never see.",
+   "section": "II. The drift (3:00–5:00)"
+  },
+  {
+   "i": 14,
+   "start": 177.6,
+   "dur": 14.073,
+   "text": "And nobody could say what had actually happened. Maybe the copies were gaining mass from contamination. Maybe the prototype was losing mass, shedding material from its surface every time it was cleaned. Most likely, both.",
+   "section": "II. The drift (3:00–5:00)"
+  },
+  {
+   "i": 15,
+   "start": 192.133,
+   "dur": 20.669,
+   "text": "But the logic of the old definition made the question impossible to answer. The prototype defined the kilogram, so its mass was one kilogram, always — by definition, with zero drift. If it changed, the kilogram changed with it, and the rest of the world quietly changed underneath.",
+   "section": "II. The drift (3:00–5:00)"
+  },
+  {
+   "i": 16,
+   "start": 213.267,
+   "dur": 18.873,
+   "text": "And the kilogram was not alone. Under the old system it propped up other units: the mole, the ampere, the candela all carried its definition inside them. A drifting cylinder in a French vault was a foundation for a sizeable part of the measurement system.",
+   "section": "II. The drift (3:00–5:00)"
+  },
+  {
+   "i": 17,
+   "start": 232.6,
+   "dur": 10.873,
+   "text": "So the plan changed. Instead of a better object, physics would use something that cannot be scratched, contaminated or dropped: a constant of nature.",
+   "section": "II. The drift (3:00–5:00)"
+  },
+  {
+   "i": 18,
+   "start": 246.533,
+   "dur": 7.38,
+   "text": "The first route was a machine called the Kibble balance, invented by Bryan Kibble in Britain in 1975.",
+   "section": "III. Weighing with electricity (5:00–7:00)"
+  },
+  {
+   "i": 19,
+   "start": 253.833,
+   "dur": 14.171,
+   "text": "It works in two modes. In the first, a mass sits on a pan attached to a coil inside a magnetic field. Current flows through the coil until the magnetic force exactly cancels the weight of the mass.",
+   "section": "III. Weighing with electricity (5:00–7:00)"
+  },
+  {
+   "i": 20,
+   "start": 268.467,
+   "dur": 9.078,
+   "text": "In the second, the mass is taken away, and the same coil is moved through the same field at a measured speed, generating a voltage.",
+   "section": "III. Weighing with electricity (5:00–7:00)"
+  },
+  {
+   "i": 21,
+   "start": 278.0,
+   "dur": 14.367,
+   "text": "Put the two together, and the strength of the magnet — the hardest thing in the machine to measure — cancels out. What remains links a mass to electrical measurements: to voltage, to resistance, and through them to the Planck constant.",
+   "section": "III. Weighing with electricity (5:00–7:00)"
+  },
+  {
+   "i": 22,
+   "start": 292.833,
+   "dur": 11.69,
+   "text": "The American version, NIST-4, stands two and a half metres tall in a room underground and works in vacuum, because even the buoyancy of air is a disturbance at this level.",
+   "section": "III. Weighing with electricity (5:00–7:00)"
+  },
+  {
+   "i": 23,
+   "start": 304.967,
+   "dur": 11.788,
+   "text": "Between 2015 and 2017 it weighed masses more than ten thousand times. The result was a value for the Planck constant with an uncertainty of thirteen parts per billion.",
+   "section": "III. Weighing with electricity (5:00–7:00)"
+  },
+  {
+   "i": 24,
+   "start": 317.2,
+   "dur": 8.392,
+   "text": "Thirteen parts per billion is roughly one part in eighty million — the difference of a spoonful of water in an Olympic swimming pool.",
+   "section": "III. Weighing with electricity (5:00–7:00)"
+  },
+  {
+   "i": 25,
+   "start": 328.633,
+   "dur": 6.89,
+   "text": "The second route took the opposite approach. If a kilogram is an amount of matter, then count the matter.",
+   "section": "IV. Counting atoms (7:00–8:30)"
+  },
+  {
+   "i": 26,
+   "start": 335.967,
+   "dur": 17.078,
+   "text": "The Avogadro project grew crystals of silicon-28 — one isotope, purified to 99.9995 per cent — and ground them into spheres of almost exactly one kilogram, just under ninety-four millimetres across.",
+   "section": "IV. Counting atoms (7:00–8:30)"
+  },
+  {
+   "i": 27,
+   "start": 353.5,
+   "dur": 15.771,
+   "text": "They are among the roundest objects ever made. The surface deviates from a perfect sphere by about fifty nanometres. Scaled up to the size of the Earth, the distance from the highest mountain to the deepest trench would be a few metres.",
+   "section": "IV. Counting atoms (7:00–8:30)"
+  },
+  {
+   "i": 28,
+   "start": 368.367,
+   "dur": 11.788,
+   "text": "Because the crystal is pure and its lattice spacing is known, measuring the sphere's diameter tells you how many atoms are inside it — a number with twenty-odd digits, known well enough to matter.",
+   "section": "IV. Counting atoms (7:00–8:30)"
+  },
+  {
+   "i": 29,
+   "start": 380.6,
+   "dur": 9.273,
+   "text": "Two completely different methods, one counting atoms and one balancing electricity against gravity, had to agree. They did.",
+   "section": "IV. Counting atoms (7:00–8:30)"
+  },
+  {
+   "i": 30,
+   "start": 392.933,
+   "dur": 7.086,
+   "text": "On the sixteenth of November 2018, in Versailles, the General Conference on Weights and Measures voted.",
+   "section": "V. The vote (8:30–9:15)"
+  },
+  {
+   "i": 31,
+   "start": 400.467,
+   "dur": 20.669,
+   "text": "The Planck constant was fixed, by agreement, at exactly 6.62607015 times ten to the minus thirty-four joule seconds. No uncertainty, no further measurement — a defined value, like the speed of light.",
+   "section": "V. The vote (8:30–9:15)"
+  },
+  {
+   "i": 32,
+   "start": 421.6,
+   "dur": 9.273,
+   "text": "On the twentieth of May 2019, the new definition took effect. The kilogram stopped being a thing and became a consequence.",
+   "section": "V. The vote (8:30–9:15)"
+  },
+  {
+   "i": 33,
+   "start": 431.333,
+   "dur": 12.376,
+   "text": "Le Grand K is still in its vault, still under its bell jars. But it is now just an object. Its mass is measured like anything else, and it is allowed to drift.",
+   "section": "V. The vote (8:30–9:15)"
+  },
+  {
+   "i": 34,
+   "start": 444.167,
+   "dur": 16.392,
+   "text": "For a hundred and thirty years, humanity kept its unit of mass in a safe, and had no way to ask whether it was still right. Now the question can be asked anywhere, by anyone with the right machine — and the answer will be the same in a thousand years.",
+   "section": "V. The vote (8:30–9:15)"
+  },
+  {
+   "i": 35,
+   "start": 461.0,
+   "dur": 2.873,
+   "text": "The last digit finally stopped moving.",
+   "section": "V. The vote (8:30–9:15)"
+  }
+ ],
+ "sections": [
+  {
+   "title": "I  ·  THE METAL",
+   "start": 48.667
+  },
+  {
+   "title": "II  ·  THE DRIFT",
+   "start": 140.1
+  },
+  {
+   "title": "III  ·  WEIGHING WITH ELECTRICITY",
+   "start": 244.233
+  },
+  {
+   "title": "IV  ·  COUNTING ATOMS",
+   "start": 326.333
+  },
+  {
+   "title": "V  ·  THE VOTE",
+   "start": 390.633
+  }
+ ]
+}

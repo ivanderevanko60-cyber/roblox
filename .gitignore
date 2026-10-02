@@ -1,0 +1,23 @@
+# API keys — never commit
+.env
+.env.*
+
+# Heavy media (stays local only)
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.wav
+*.m4a
+**/renders/
+**/footage/
+
+# Python / logs
+__pycache__/
+*.pyc
+*.log
+
+# OS junk
+Thumbs.db
+desktop.ini
+.DS_Store

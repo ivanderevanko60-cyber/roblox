@@ -1,0 +1,304 @@
+{
+ "total": 311.099349,
+ "lines": [
+  {
+   "i": 0,
+   "start": 0.0,
+   "dur": 5.77,
+   "text": "On the thirtieth of June 2012, the world added one second to the clock.",
+   "section": "0. Cold open (0:00–0:45)"
+  },
+  {
+   "i": 1,
+   "start": 6.067,
+   "dur": 8.394,
+   "text": "Within minutes, Reddit went down. An airline in Australia couldn't check in its passengers. Servers across the internet froze.",
+   "section": "0. Cold open (0:00–0:45)"
+  },
+  {
+   "i": 2,
+   "start": 14.733,
+   "dur": 5.606,
+   "text": "All because of a second that, on most clocks, isn't even allowed to exist.",
+   "section": "0. Cold open (0:00–0:45)"
+  },
+  {
+   "i": 3,
+   "start": 20.633,
+   "dur": 7.074,
+   "text": "That second exists because of something most people never hear: right now, nobody on Earth knows exactly what time it is.",
+   "section": "0. Cold open (0:00–0:45)"
+  },
+  {
+   "i": 4,
+   "start": 28.0,
+   "dur": 7.369,
+   "text": "Not your phone. Not the satellites overhead. The official time for this moment will be worked out weeks from now, in an office outside Paris.",
+   "section": "0. Cold open (0:00–0:45)"
+  },
+  {
+   "i": 5,
+   "start": 35.633,
+   "dur": 6.146,
+   "text": "This is the story of who decides what time it is — and why we stopped trusting the Earth to do it.",
+   "section": "0. Cold open (0:00–0:45)"
+  },
+  {
+   "i": 6,
+   "start": 42.067,
+   "dur": 5.18,
+   "text": "For most of history, time came from the Sun. When it was highest in the sky, it was noon.",
+   "section": "I. Every town had its own noon (0:45–2:10)"
+  },
+  {
+   "i": 7,
+   "start": 47.533,
+   "dur": 5.466,
+   "text": "Which meant every town had its own noon. In Bristol, it came about ten minutes after London's.",
+   "section": "I. Every town had its own noon (0:45–2:10)"
+  },
+  {
+   "i": 8,
+   "start": 53.266,
+   "dur": 6.166,
+   "text": "The clock on Bristol's Corn Exchange still has two minute hands. One for Bristol. One for London.",
+   "section": "I. Every town had its own noon (0:45–2:10)"
+  },
+  {
+   "i": 9,
+   "start": 59.699,
+   "dur": 8.622,
+   "text": "Then came the railways. A timetable with a different time at every station was a recipe for collisions. In 1880, Britain made Greenwich time the law.",
+   "section": "I. Every town had its own noon (0:45–2:10)"
+  },
+  {
+   "i": 10,
+   "start": 68.599,
+   "dur": 7.382,
+   "text": "And a second was still just a slice of a day: one eighty-six-thousand-four-hundredth of a turn of the Earth.",
+   "section": "I. Every town had its own noon (0:45–2:10)"
+  },
+  {
+   "i": 11,
+   "start": 76.266,
+   "dur": 3.763,
+   "text": "There was only one problem. The Earth is a terrible clock.",
+   "section": "I. Every town had its own noon (0:45–2:10)"
+  },
+  {
+   "i": 12,
+   "start": 80.299,
+   "dur": 8.522,
+   "text": "The tides drag on it like a brake. Earthquakes, melting ice and the churning core nudge it faster, then slower. No two days are exactly the same length.",
+   "section": "I. Every town had its own noon (0:45–2:10)"
+  },
+  {
+   "i": 13,
+   "start": 89.099,
+   "dur": 6.14,
+   "text": "So in the 1950s, scientists stopped looking up at the sky — and looked inside an atom instead.",
+   "section": "II. The atom that never gets tired (2:10–3:30)"
+  },
+  {
+   "i": 14,
+   "start": 95.533,
+   "dur": 8.94,
+   "text": "A caesium atom absorbs microwaves at one exact frequency. Every caesium atom in the universe has the same one. It never wears out. It never slows down.",
+   "section": "II. The atom that never gets tired (2:10–3:30)"
+  },
+  {
+   "i": 15,
+   "start": 104.766,
+   "dur": 9.118,
+   "text": "In 1955, near London, Louis Essen built the first clock that counted those microwaves. And it showed something awkward almost immediately.",
+   "section": "II. The atom that never gets tired (2:10–3:30)"
+  },
+  {
+   "i": 16,
+   "start": 114.166,
+   "dur": 4.372,
+   "text": "The atom was keeping perfect time. It was the planet that was wobbling.",
+   "section": "II. The atom that never gets tired (2:10–3:30)"
+  },
+  {
+   "i": 17,
+   "start": 118.833,
+   "dur": 5.614,
+   "text": "Astronomers had kept the world's time for centuries. They did not give it up easily. It took twelve years.",
+   "section": "II. The atom that never gets tired (2:10–3:30)"
+  },
+  {
+   "i": 18,
+   "start": 124.733,
+   "dur": 11.62,
+   "text": "In 1967, the second was redefined: nine billion, one hundred and ninety-two million, six hundred and thirty-one thousand, seven hundred and seventy vibrations of caesium. Exactly.",
+   "section": "II. The atom that never gets tired (2:10–3:30)"
+  },
+  {
+   "i": 19,
+   "start": 136.633,
+   "dur": 8.336,
+   "text": "That solved one problem and created another. Atomic time is perfect. Earth time is not. And people still want noon to happen when the Sun is high.",
+   "section": "III. The second that breaks computers (3:30–5:00)"
+  },
+  {
+   "i": 20,
+   "start": 145.233,
+   "dur": 14.685,
+   "text": "So since 1972, whenever the planet falls almost a second behind the atoms, the world adds one. 23:59:59. Then 23:59:60. Then midnight.",
+   "section": "III. The second that breaks computers (3:30–5:00)"
+  },
+  {
+   "i": 21,
+   "start": 160.199,
+   "dur": 6.032,
+   "text": "It has happened twenty-seven times. And the one in 2012 is the one that took down Reddit.",
+   "section": "III. The second that breaks computers (3:30–5:00)"
+  },
+  {
+   "i": 22,
+   "start": 166.499,
+   "dur": 5.9,
+   "text": "Software assumes a minute has sixty seconds. Give it sixty-one, and some of it simply stops.",
+   "section": "III. The second that breaks computers (3:30–5:00)"
+  },
+  {
+   "i": 23,
+   "start": 172.666,
+   "dur": 11.56,
+   "text": "Google stopped playing along. Now it smears the extra second across a whole day, running its clocks very slightly slow until the second has quietly disappeared.",
+   "section": "III. The second that breaks computers (3:30–5:00)"
+  },
+  {
+   "i": 24,
+   "start": 184.499,
+   "dur": 9.43,
+   "text": "In 2022, the world gave up. The leap second will be abolished by 2035, and atomic time and the Sun will be allowed to drift apart.",
+   "section": "III. The second that breaks computers (3:30–5:00)"
+  },
+  {
+   "i": 25,
+   "start": 194.199,
+   "dur": 9.513,
+   "text": "But there's a twist. Lately, the Earth has been spinning faster. For the first time in history, the next leap second might have to be taken away.",
+   "section": "III. The second that breaks computers (3:30–5:00)"
+  },
+  {
+   "i": 26,
+   "start": 203.999,
+   "dur": 6.538,
+   "text": "So who actually decides what time it is? Not one clock. Even atomic clocks drift, each in its own way.",
+   "section": "IV. Four hundred clocks vote (5:00–6:15)"
+  },
+  {
+   "i": 27,
+   "start": 210.833,
+   "dur": 10.608,
+   "text": "Instead, more than four hundred atomic clocks in about eighty laboratories send their readings to the International Bureau of Weights and Measures, just outside Paris.",
+   "section": "IV. Four hundred clocks vote (5:00–6:15)"
+  },
+  {
+   "i": 28,
+   "start": 221.733,
+   "dur": 10.06,
+   "text": "There they are compared and averaged. The steadiest clocks get the biggest vote. The result is Coordinated Universal Time — the time the whole world runs on.",
+   "section": "IV. Four hundred clocks vote (5:00–6:15)"
+  },
+  {
+   "i": 29,
+   "start": 232.066,
+   "dur": 6.243,
+   "text": "And here is the strange part. The answer is published once a month — for the month that has already gone.",
+   "section": "IV. Four hundred clocks vote (5:00–6:15)"
+  },
+  {
+   "i": 30,
+   "start": 238.599,
+   "dur": 10.52,
+   "text": "Official time only ever exists in the past. Every clock you own is showing a prediction of what that answer will turn out to be. Usually right to within a few billionths of a second.",
+   "section": "IV. Four hundred clocks vote (5:00–6:15)"
+  },
+  {
+   "i": 31,
+   "start": 249.399,
+   "dur": 5.847,
+   "text": "Your phone gets its time from satellites, twenty thousand kilometres up, each carrying atomic clocks.",
+   "section": "V. Clocks in the sky (6:15–7:15)"
+  },
+  {
+   "i": 32,
+   "start": 255.533,
+   "dur": 10.658,
+   "text": "Up there, time runs differently. Weaker gravity makes their clocks run fast. Their speed makes them run slow. Add it up, and each one gains thirty-eight millionths of a second every day.",
+   "section": "V. Clocks in the sky (6:15–7:15)"
+  },
+  {
+   "i": 33,
+   "start": 266.466,
+   "dur": 5.94,
+   "text": "Leave that uncorrected, and your map would be wrong by around ten kilometres — by tomorrow.",
+   "section": "V. Clocks in the sky (6:15–7:15)"
+  },
+  {
+   "i": 34,
+   "start": 272.699,
+   "dur": 6.192,
+   "text": "So the satellite clocks are built to tick slightly slow on the ground. In orbit, Einstein makes them right.",
+   "section": "V. Clocks in the sky (6:15–7:15)"
+  },
+  {
+   "i": 35,
+   "start": 279.166,
+   "dur": 6.966,
+   "text": "The newest clocks use light instead of microwaves. Lift one by a single centimetre, and it measurably ticks faster.",
+   "section": "VI. The last digit (7:15–8:00)"
+  },
+  {
+   "i": 36,
+   "start": 286.399,
+   "dur": 7.186,
+   "text": "Time isn't even the same from floor to floor. Walk upstairs, and your head ages faster than your feet — we made a whole video about that.",
+   "section": "VI. The last digit (7:15–8:00)"
+  },
+  {
+   "i": 37,
+   "start": 293.866,
+   "dur": 8.686,
+   "text": "So what time is it, right now? The honest answer is: we'll know next month. Until then, four hundred clocks are voting.",
+   "section": "VI. The last digit (7:15–8:00)"
+  },
+  {
+   "i": 38,
+   "start": 302.833,
+   "dur": 3.486,
+   "text": "The last digit of time is always a little bit in the future.",
+   "section": "VI. The last digit (7:15–8:00)"
+  }
+ ],
+ "sections": [
+  {
+   "title": "I  ·  EVERY TOWN HAD ITS OWN NOON",
+   "start": 42.217
+  },
+  {
+   "title": "II  ·  THE ATOM THAT NEVER GETS TIRED",
+   "start": 89.249
+  },
+  {
+   "title": "III  ·  THE SECOND THAT BREAKS COMPUTERS",
+   "start": 136.783
+  },
+  {
+   "title": "IV  ·  FOUR HUNDRED CLOCKS VOTE",
+   "start": 204.149
+  },
+  {
+   "title": "V  ·  CLOCKS IN THE SKY",
+   "start": 249.549
+  },
+  {
+   "title": "VI  ·  THE LAST DIGIT",
+   "start": 279.316
+  }
+ ]
+}

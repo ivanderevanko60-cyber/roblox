@@ -1,0 +1,320 @@
+[
+ {
+  "section": "0. Cold open (0:00–0:45)",
+  "text": "Right now, your head is older than your feet.",
+  "file": "vo_000.mp3",
+  "dur": 3.494
+ },
+ {
+  "section": "0. Cold open (0:00–0:45)",
+  "text": "Not by much. Over an entire lifetime, the difference adds up to less than a tenth of a millionth of a second.",
+  "file": "vo_001.mp3",
+  "dur": 8.784
+ },
+ {
+  "section": "0. Cold open (0:00–0:45)",
+  "text": "But it's real. It has been measured. And the experiments that measured it are some of the strangest things humans have ever done.",
+  "file": "vo_002.mp3",
+  "dur": 7.869
+ },
+ {
+  "section": "0. Cold open (0:00–0:45)",
+  "text": "We raced particles down a mountain. We bought plane tickets for clocks. We lifted a clock by the height of two stair steps… and then we did something even more absurd.",
+  "file": "vo_003.mp3",
+  "dur": 10.776
+ },
+ {
+  "section": "0. Cold open (0:00–0:45)",
+  "text": "Four experiments. Each one smaller than the last. And by the end, time won't be the thing you thought it was.",
+  "file": "vo_004.mp3",
+  "dur": 8.196
+ },
+ {
+  "section": "1. The Mountain (0:45–3:15)",
+  "text": "Every second, particles from deep space slam into the top of our atmosphere. The collisions set off showers of debris — and some of that debris is a particle called the muon.",
+  "file": "vo_005.mp3",
+  "dur": 10.868
+ },
+ {
+  "section": "1. The Mountain (0:45–3:15)",
+  "text": "A muon is like a heavier cousin of the electron, with one big problem: it doesn't last. On average, a muon falls apart in about two millionths of a second.",
+  "file": "vo_006.mp3",
+  "dur": 11.592
+ },
+ {
+  "section": "1. The Mountain (0:45–3:15)",
+  "text": "And muons are born high up — many kilometers above our heads. Even moving at nearly the speed of light, most of them should decay long before they reach the ground.",
+  "file": "vo_007.mp3",
+  "dur": 10.776
+ },
+ {
+  "section": "1. The Mountain (0:45–3:15)",
+  "text": "And yet, detectors at sea level catch them all the time.",
+  "file": "vo_008.mp3",
+  "dur": 4.074
+ },
+ {
+  "section": "1. The Mountain (0:45–3:15)",
+  "text": "In the early 1960s, two physicists, David Frisch and James Smith, decided to count them properly. They hauled a detector to the summit of Mount Washington in New Hampshire — almost two kilometers up — and counted muons moving at one specific speed.",
+  "file": "vo_009.mp3",
+  "dur": 17.665
+ },
+ {
+  "section": "1. The Mountain (0:45–3:15)",
+  "text": "Then they brought the detector down to sea level, in Cambridge, Massachusetts, and counted again.",
+  "file": "vo_010.mp3",
+  "dur": 6.171
+ },
+ {
+  "section": "1. The Mountain (0:45–3:15)",
+  "text": "The math looked simple. Given how long a muon lives, and how long the trip down the mountain takes, then for every 568 muons at the top, only about 27 should have survived to the bottom.",
+  "file": "vo_011.mp3",
+  "dur": 13.682
+ },
+ {
+  "section": "1. The Mountain (0:45–3:15)",
+  "text": "They counted 412.",
+  "file": "vo_012.mp3",
+  "dur": 1.796
+ },
+ {
+  "section": "1. The Mountain (0:45–3:15)",
+  "text": "Fifteen times more than expected.",
+  "file": "vo_013.mp3",
+  "dur": 2.776
+ },
+ {
+  "section": "1. The Mountain (0:45–3:15)",
+  "text": "The only explanation that fits is Einstein's. For a particle moving at more than ninety-nine percent of the speed of light, time runs slow. From our point of view, the muon's internal clock is barely ticking. A trip that should take several of its lifetimes takes only a fraction of one.",
+  "file": "vo_014.mp3",
+  "dur": 20.082
+ },
+ {
+  "section": "1. The Mountain (0:45–3:15)",
+  "text": "The muons weren't breaking the rules. They were living in a different time than we are.",
+  "file": "vo_015.mp3",
+  "dur": 4.996
+ },
+ {
+  "section": "1. The Mountain (0:45–3:15)",
+  "text": "But muons are exotic — tiny, fast, far away. What about something ordinary? Like a clock… on a plane.",
+  "file": "vo_016.mp3",
+  "dur": 8.775
+ },
+ {
+  "section": "2. The Airplanes (3:15–5:45)",
+  "text": "In October 1971, a physicist named Joseph Hafele and an astronomer from the U.S. Naval Observatory, Richard Keating, did something that sounds like a joke.",
+  "file": "vo_017.mp3",
+  "dur": 10.868
+ },
+ {
+  "section": "2. The Airplanes (3:15–5:45)",
+  "text": "They bought plane tickets for atomic clocks.",
+  "file": "vo_018.mp3",
+  "dur": 2.776
+ },
+ {
+  "section": "2. The Airplanes (3:15–5:45)",
+  "text": "Four cesium-beam clocks — among the most precise timekeepers of the era — flew on ordinary commercial flights, all the way around the world. First heading east. Then heading west.",
+  "file": "vo_019.mp3",
+  "dur": 13.682
+ },
+ {
+  "section": "2. The Airplanes (3:15–5:45)",
+  "text": "Back in Washington, the Naval Observatory's clocks stayed on the ground, ticking as usual.",
+  "file": "vo_020.mp3",
+  "dur": 6.073
+ },
+ {
+  "section": "2. The Airplanes (3:15–5:45)",
+  "text": "Einstein's theories predicted two effects pulling in opposite directions. Speed slows time down. Height speeds it up — the weaker the gravity, the faster a clock ticks. And because the Earth itself is spinning, flying east or west changes how fast the clocks are really moving.",
+  "file": "vo_021.mp3",
+  "dur": 18.971
+ },
+ {
+  "section": "2. The Airplanes (3:15–5:45)",
+  "text": "When the clocks came home, they no longer agreed with the ones that stayed behind.",
+  "file": "vo_022.mp3",
+  "dur": 4.996
+ },
+ {
+  "section": "2. The Airplanes (3:15–5:45)",
+  "text": "The eastbound clocks had lost about 59 billionths of a second. The westbound clocks had gained about 273.",
+  "file": "vo_023.mp3",
+  "dur": 8.98
+ },
+ {
+  "section": "2. The Airplanes (3:15–5:45)",
+  "text": "The predictions? A loss of about 40, and a gain of about 275 — agreement within the uncertainties of the experiment.",
+  "file": "vo_024.mp3",
+  "dur": 9.273
+ },
+ {
+  "section": "2. The Airplanes (3:15–5:45)",
+  "text": "Two trips around the planet. A few hundred billionths of a second. And Einstein was right again.",
+  "file": "vo_025.mp3",
+  "dur": 7.086
+ },
+ {
+  "section": "2. The Airplanes (3:15–5:45)",
+  "text": "Today, this isn't just a curiosity. GPS satellites orbit about twenty thousand kilometers up, and their clocks run faster than ours by about thirty-eight millionths of a second every day. Leave that uncorrected, and your phone's map would drift by kilometers within a single day.",
+  "file": "vo_026.mp3",
+  "dur": 19.396
+ },
+ {
+  "section": "2. The Airplanes (3:15–5:45)",
+  "text": "But a plane still flies ten kilometers high. How small can the difference get — and still be measured?",
+  "file": "vo_027.mp3",
+  "dur": 7.086
+ },
+ {
+  "section": "3. Two Stair Steps (5:45–8:00)",
+  "text": "In 2010, physicists at the National Institute of Standards and Technology, in Boulder, Colorado, had built something far better than a cesium clock.",
+  "file": "vo_028.mp3",
+  "dur": 10.868
+ },
+ {
+  "section": "3. Two Stair Steps (5:45–8:00)",
+  "text": "Their clocks ticked using a single aluminum ion — one electrically charged atom, held in place by electric fields and read out with lasers. The best of them kept time to within one second in about 3.7 billion years.",
+  "file": "vo_029.mp3",
+  "dur": 16.784
+ },
+ {
+  "section": "3. Two Stair Steps (5:45–8:00)",
+  "text": "So they took two of these clocks, and asked a very small question.",
+  "file": "vo_030.mp3",
+  "dur": 4.571
+ },
+ {
+  "section": "3. Two Stair Steps (5:45–8:00)",
+  "text": "They raised one of them by 33 centimeters. About a foot. Roughly two steps on a staircase.",
+  "file": "vo_031.mp3",
+  "dur": 6.988
+ },
+ {
+  "section": "3. Two Stair Steps (5:45–8:00)",
+  "text": "And the higher clock ran faster.",
+  "file": "vo_032.mp3",
+  "dur": 2.188
+ },
+ {
+  "section": "3. Two Stair Steps (5:45–8:00)",
+  "text": "Not by much. Over a 79-year lifetime, that difference adds up to about 90 billionths of a second.",
+  "file": "vo_033.mp3",
+  "dur": 8.294
+ },
+ {
+  "section": "3. Two Stair Steps (5:45–8:00)",
+  "text": "But it's measurable. Every time you climb the stairs, you age a tiny bit faster. Every time you lie down, your head and your feet fall back in step.",
+  "file": "vo_034.mp3",
+  "dur": 9.665
+ },
+ {
+  "section": "3. Two Stair Steps (5:45–8:00)",
+  "text": "They tested the other half of Einstein's idea too. They set one ion moving back and forth at just a few meters per second — about the speed of a jog — and that clock ticked slower.",
+  "file": "vo_035.mp3",
+  "dur": 12.278
+ },
+ {
+  "section": "3. Two Stair Steps (5:45–8:00)",
+  "text": "Time bends with height. Time bends with speed. Even at human scale.",
+  "file": "vo_036.mp3",
+  "dur": 6.073
+ },
+ {
+  "section": "3. Two Stair Steps (5:45–8:00)",
+  "text": "But thirty-three centimeters still wasn't the limit.",
+  "file": "vo_037.mp3",
+  "dur": 3.069
+ },
+ {
+  "section": "4. One Millimeter (8:00–10:15)",
+  "text": "In 2022, a team led by physicist Jun Ye at JILA — a joint institute of NIST and the University of Colorado Boulder — pushed the question to its extreme.",
+  "file": "vo_038.mp3",
+  "dur": 12.767
+ },
+ {
+  "section": "4. One Millimeter (8:00–10:15)",
+  "text": "They didn't compare two clocks. They used one cloud.",
+  "file": "vo_039.mp3",
+  "dur": 3.984
+ },
+ {
+  "section": "4. One Millimeter (8:00–10:15)",
+  "text": "About a hundred thousand strontium atoms, trapped in a vacuum chamber and cooled to a tiny fraction of a degree above absolute zero. Laser light stacks them into thin layers — like a stack of pancakes made of light — and every atom in the stack becomes a clock.",
+  "file": "vo_040.mp3",
+  "dur": 17.371
+ },
+ {
+  "section": "4. One Millimeter (8:00–10:15)",
+  "text": "The whole stack is about a millimeter tall. Roughly the width of a sharp pencil tip.",
+  "file": "vo_041.mp3",
+  "dur": 5.682
+ },
+ {
+  "section": "4. One Millimeter (8:00–10:15)",
+  "text": "Then they compared the ticking at the top of the cloud with the ticking at the bottom.",
+  "file": "vo_042.mp3",
+  "dur": 4.376
+ },
+ {
+  "section": "4. One Millimeter (8:00–10:15)",
+  "text": "And the top was ticking faster.",
+  "file": "vo_043.mp3",
+  "dur": 2.384
+ },
+ {
+  "section": "4. One Millimeter (8:00–10:15)",
+  "text": "Across one millimeter, the difference in rate is about one part in ten billion billion. To see it, the team compared frequencies with an uncertainty of just 7.6 parts in a thousand billion billion. If a clock were that precise, it would drift less than a hundredth of a second over the entire age of the universe.",
+  "file": "vo_044.mp3",
+  "dur": 20.669
+ },
+ {
+  "section": "4. One Millimeter (8:00–10:15)",
+  "text": "And they didn't just catch the effect once. They saw it as a smooth gradient — tick rates changing steadily from the bottom of the cloud to the top — exactly as Einstein's general relativity predicts.",
+  "file": "vo_045.mp3",
+  "dur": 14.073
+ },
+ {
+  "section": "4. One Millimeter (8:00–10:15)",
+  "text": "Our best clocks are now so sensitive that they can feel time change across something smaller than a grain of sand.",
+  "file": "vo_046.mp3",
+  "dur": 6.596
+ },
+ {
+  "section": "5. Finale (10:15–11:00)",
+  "text": "So here is where four experiments leave us.",
+  "file": "vo_047.mp3",
+  "dur": 2.971
+ },
+ {
+  "section": "5. Finale (10:15–11:00)",
+  "text": "There is no single time. No master clock ticking for the whole universe. Every place has its own time — a little faster where gravity is weaker, a little slower where you're moving faster.",
+  "file": "vo_048.mp3",
+  "dur": 12.376
+ },
+ {
+  "section": "5. Finale (10:15–11:00)",
+  "text": "A particle racing down a mountain. Clocks with plane tickets. Two stair steps. A cloud one millimeter tall.",
+  "file": "vo_049.mp3",
+  "dur": 7.771
+ },
+ {
+  "section": "5. Finale (10:15–11:00)",
+  "text": "Time isn't the background of the universe. It's part of the landscape — and it bends.",
+  "file": "vo_050.mp3",
+  "dur": 5.584
+ },
+ {
+  "section": "5. Finale (10:15–11:00)",
+  "text": "And right now, as you watch this, the top of your head is getting older than your feet.",
+  "file": "vo_051.mp3",
+  "dur": 5.878
+ },
+ {
+  "section": "5. Finale (10:15–11:00)",
+  "text": "Not by much. But it is.",
+  "file": "vo_052.mp3",
+  "dur": 2.482
+ }
+]

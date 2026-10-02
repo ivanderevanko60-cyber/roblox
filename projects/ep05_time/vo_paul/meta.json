@@ -1,0 +1,5 @@
+{
+ "model": "mistralai/voxtral-mini-tts-2603",
+ "voice": "en_paul_neutral",
+ "speed": 0.92
+}
